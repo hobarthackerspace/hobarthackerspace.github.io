@@ -7,7 +7,7 @@ header:
   image: "/assets/images/hhs_banner.jpg"
 ---
 
-# Welcome to Hobart Hackerspace
+# Welcome to the Hobart Hackerspace
 
 ## Need some welcoming text here
 
