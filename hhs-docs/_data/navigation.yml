@@ -1,0 +1,19 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Facilities"
+    url: /facilities/
+  - title: "Safety"
+    url: /safety/
+  - title: "Memberships"
+    url: "https://hobarthackerspace.tidyhq.com/member/memberships"
+  - title: "Membership Agreement"
+    url: /terms_of_use/
+#  - title: "Blog"
+#    subfolderitems:
+  - title: "Blog Categories"
+    url: /categories/
+  - title: "Blog Tags"
+    url: /tags/
+  - title: "Blog Year"
+    url: /posts/
