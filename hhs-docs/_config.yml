@@ -33,7 +33,7 @@ search: true
 
 # Build settings
 #theme: minima
-markdown: kramdown
+markdown: GFM
 theme: minimal-mistakes-jekyll
 
 permalink: /:categories/:title/
