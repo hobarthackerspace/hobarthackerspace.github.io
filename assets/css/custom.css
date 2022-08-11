@@ -1,0 +1,6 @@
+/* CSS components to customise the theme in use.
+put them here so they are independent of any updates to the main theme
+
+This gets loaded after the main CSS fie
+*/
+.site-title { font-family: Courier Prime,courier,monospace; font-size: larger; }
