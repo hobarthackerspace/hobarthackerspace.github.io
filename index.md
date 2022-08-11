@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Welcome to the Hobart Hackerspace"
 header:
   image: "/assets/images/hhs_banner.jpg"
 ---
-
-## Welcome to the Hobart Hackerspace
 
 ## Need some welcoming text here
 
