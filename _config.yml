@@ -35,7 +35,8 @@ search: true
 # Build settings
 #theme: minima
 markdown: GFM
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes 
 
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
