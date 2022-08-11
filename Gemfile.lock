@@ -266,7 +266,12 @@ DEPENDENCIES
   github-pages (~> 227)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
-  minimal-mistakes-jekyll
+  jekyll-gist (~> 1.5)
+  jekyll-include-cache (~> 0.2)
+  jekyll-paginate (~> 1.1)
+  jekyll-sitemap (~> 1.4)
+  jemoji (~> 0.12)
+  minimal-mistakes-jekyll (~> 4.24)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
