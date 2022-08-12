@@ -1,8 +1,8 @@
 ---
 permalink: /facilities/
 title: "Facilities"
+layout: single
 author_profile: false
-layout: page
 ---
 
 # Our facilities
