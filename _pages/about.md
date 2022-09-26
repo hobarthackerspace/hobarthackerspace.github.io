@@ -6,13 +6,19 @@ author_profile: false
 
 ## About us
 
+From Wikipedia:
+
+> A hackerspace (also referred to as a hacklab, makerspace, or
+> hackspace) is a community-operated workspace where people with common
+> interests, often in computers, technology, science, digital art or
+> electronic art, can meet, socialise and/or collaborate.
+
 Hobart Hackerspace Inc. was founded in 2012 after a successful crowd
 funding campaign which was designed to not only raise money, but to also
 gauge the interest in opening a dedicated community workshop dedicated
 to technology and art. After many months of searching, a license was
 signed with the Tasmanian Department of Health and Human Services to
-utilise one of the guardhouses at 2 St Johns Ave, New Town, on the edge
-of the former St Johns Park orphanage.
+utilise one of the heritage guardhouses at 2 St Johns Ave, New Town.
 
 We are still in this building, though quickly outgrowing it so have
 begun the search for a new home, hopefully with higher ceilings and more

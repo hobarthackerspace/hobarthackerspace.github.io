@@ -8,7 +8,7 @@ author_profile: false
 ## Be safe in the Space
 The safety of our members and the public is very important to us.  We
 provide instruction on the use of all equipment, along with appropriate
-safety equipment. It is the responsibily of all members to ensure that
+safety equipment. It is the responsibility of all members to ensure that
 all equipment and work practices in the Hackerspace are safe.
 
 ## Some basic rules:

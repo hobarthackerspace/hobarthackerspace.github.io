@@ -9,6 +9,10 @@ author_profile: false
 
 *Membership Agreement and Acceptable Use Policy*
 
+When you become a member of Hobart Hackerspace Inc. it is a requirement
+that you agree to and follow these guidelines relating to your
+membership and activities in the space.
+
 ## **Purpose**
 
 ### Hobart Hackerspace Inc provides a shared space where you can:

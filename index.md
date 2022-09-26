@@ -8,7 +8,23 @@ header:
   image: "/assets/images/hhs_banner.jpg"
 ---
 
-## Need some welcoming text here
+## Welcome to Hobart Hackerspace. Our motto is *Make, Learn, Inspire.*
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+There are many benefits to [becoming a member](/membership-benefits/).
+These include:
+
+1. 24 hour access to the building.
+
+2. Use of awesome tools such as 3d printers, CNCs and laser cutter
+
+3. A friendly atmosphere where people can learn and share knowledge.
+
+Attend our events to get to know us, or sign up with a corporate
+membership or an individual membership. There are many [membership
+benefits](/membership-benefits/)!
+
+Questions about Membership beyond the membership benefits listed above?
+Visit our FAQ, our community forum, attend an event, or feel free to
+contact us!
+
 
