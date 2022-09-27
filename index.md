@@ -6,6 +6,8 @@ layout: home
 title: "Welcome to the Hobart Hackerspace"
 header:
   image: "/assets/images/hhs_banner.jpg"
+sidebar:
+  nav: "side"
 ---
 
 ## Welcome to Hobart Hackerspace. Our motto is *Make, Learn, Inspire.*
@@ -20,8 +22,7 @@ These include:
 3. A friendly atmosphere where people can learn and share knowledge.
 
 Attend our events to get to know us, or sign up with a corporate
-membership or an individual membership. There are many [membership
-benefits](/membership-benefits/)!
+membership or an individual membership.
 
 Questions about Membership beyond the membership benefits listed above?
 Visit our FAQ, our community forum, attend an event, or feel free to
