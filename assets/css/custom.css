@@ -5,15 +5,21 @@ This gets loaded after the main CSS fie
 */
 .site-title { font-family: Courier Prime,courier,monospace; font-size: 2em; }
 
+/* note that @media queries use "initial values" for lengths (eg min-width),
+   not any inherited value. See: https://www.w3.org/TR/mediaqueries-4/#units
+   So a query in "em" units is in effect one in "rem" values.
+*/
 /* font size and page width adjustments - 
-  I don't really like Michael Rose's choice of very large type in a narrow page
-  See the original _site/assets/css/main.css to see his approach
-  BWM Sept 2022
+   I don't really like Michael Rose's choice of very large type in a relatively narrow page
+   See the original _site/assets/css/main.css to see his approach
+   BWM Sept 2022
 */
 @media (min-width: 48em) { html { font-size: 16px; } }
 @media (min-width: 64em) { html { font-size: 16px; } }
 @media (min-width: 80em) { html { font-size: 18px; } }
 /* let alone the mix of px & em for scaling*/
+/*
+Tread with care here - the side nav menus got stuffed up when I tried the below. BWM 2022-09-27
 @media (min-width: 64em) { .breadcrumbs ol { float: right; width: 90%; } }
 @media (min-width: 80em) { .breadcrumbs ol { width: 80%; } }
 @media (min-width: 64em) { .page { float: right; width: 90%; padding-right: 5%; } }
@@ -22,5 +28,5 @@ This gets loaded after the main CSS fie
 @media (min-width: 80em) { .page__related { width: 80%; } }
 @media (min-width: 64em) { .archive { float: right; width: 90%; padding-right: 5%; } }
 @media (min-width: 80em) { .archive { width: 80%; padding-right: 10%; } }
-
+*/
 
