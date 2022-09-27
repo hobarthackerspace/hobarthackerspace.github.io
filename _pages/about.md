@@ -2,6 +2,8 @@
 permalink: /about/
 title: "About"
 author_profile: false
+sidebar:
+  nav: "side"
 ---
 
 ## About us

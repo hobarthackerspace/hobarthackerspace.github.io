@@ -5,15 +5,48 @@ main:
     url: /facilities/
   - title: "Safety"
     url: /safety/
-  - title: "Memberships"
-    url: "https://hobarthackerspace.tidyhq.com/member/memberships"
-  - title: "Membership Agreement"
-    url: /terms_of_use/
-#  - title: "Blog"
-#    subfolderitems:
-  - title: "Blog Categories"
-    url: /categories/
-  - title: "Blog Tags"
-    url: /tags/
-  - title: "Blog Year"
-    url: /posts/
+  - title: Membership
+    url: /membership/
+
+side:
+  - title: "Home"
+    url: /
+  - title: "About us"
+    url: /about/
+  - title: "Membership"
+    url: /membership/
+    children:
+      - title: "Terms of use"
+        url: /terms_of_use/
+      - title: "Membership payments"
+        url: "https://hobarthackerspace.tidyhq.com/"
+  - title: "Events"
+    url: /events/
+    children:
+      - title: "Open Night"
+        url: /events/open-night/
+      - title: "Workshops"
+        url: /events/workshops/
+  - title: "Facilities"
+    url: /facilities/
+    children:
+      - title: "3D Printers"
+        url: /facilities/3d-printers/
+      - title: "CNC Routers"
+        url: /facilities/cnc-routers/
+      - title: "Laser Cutter/Engraver"
+        url: /facilities/laser-cutter/
+      - title: "Electronics Lab"
+        url: /facilities/electronics-lab/
+      - title: "Robotics Club"
+        url: /facilities/robotics/
+      - title: "Radio Station"
+        url: /facilities/radio-station/
+  - title: "Safety"
+    url: /safety/
+  # - title: "Blog Categories"
+  #   url: /categories/
+  # - title: "Blog Tags"
+  #   url: /tags/
+  # - title: "Blog Year"
+  #   url: /posts/
