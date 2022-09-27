@@ -3,4 +3,16 @@ put them here so they are independent of any updates to the main theme
 
 This gets loaded after the main CSS fie
 */
-.site-title { font-family: Courier Prime,courier,monospace; font-size: larger; }
+.site-title { font-family: Courier Prime,courier,monospace; font-size: 2em; }
+
+/* font size and page width adjustments - 
+  I don't really like Michael Rose's choice of very large type in a narrow page
+  BWM Sept 2022
+*/
+@media (min-width: 48em) { html { font-size: 16px; } }
+@media (min-width: 64em) { html { font-size: 16px; } }
+@media (min-width: 80em) { html { font-size: 18px; } }
+/* let alone the mix of px & em for scaling*/
+@media (min-width: 64em) { .page { float: right; width: 90%; padding-right: 5%; } }
+@media (min-width: 80em) { .page { width: 80%; padding-right: 10%; } }
+
