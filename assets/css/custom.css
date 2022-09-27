@@ -7,12 +7,20 @@ This gets loaded after the main CSS fie
 
 /* font size and page width adjustments - 
   I don't really like Michael Rose's choice of very large type in a narrow page
+  See the original _site/assets/css/main.css to see his approach
   BWM Sept 2022
 */
 @media (min-width: 48em) { html { font-size: 16px; } }
 @media (min-width: 64em) { html { font-size: 16px; } }
 @media (min-width: 80em) { html { font-size: 18px; } }
 /* let alone the mix of px & em for scaling*/
+@media (min-width: 64em) { .breadcrumbs ol { float: right; width: 90%; } }
+@media (min-width: 80em) { .breadcrumbs ol { width: 80%; } }
 @media (min-width: 64em) { .page { float: right; width: 90%; padding-right: 5%; } }
 @media (min-width: 80em) { .page { width: 80%; padding-right: 10%; } }
+@media (min-width: 64em) { .page__related { float: right; width: 90%; } }
+@media (min-width: 80em) { .page__related { width: 80%; } }
+@media (min-width: 64em) { .archive { float: right; width: 90%; padding-right: 5%; } }
+@media (min-width: 80em) { .archive { width: 80%; padding-right: 10%; } }
+
 
