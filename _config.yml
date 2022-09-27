@@ -20,7 +20,7 @@
 
 title: Hobart Hackerspace
 email: github@hobarthackerspace.org.au
-description: >- # this means to ignore newlines until no indentation (ie "baseurl:")
+description: >- # ">-" means to ignore newlines until no indentation
   A small group of techies, makers & artists based in Hobart, Tasmania
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hobarthackerspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -64,7 +64,10 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 exclude:
-  tidyHQ-pages/
+  - hhs-docs/
+  - tidyHQ-pages/
+  - tendenci-pages-md/
+  - vendor/bundle/
 
 
 plugins:
