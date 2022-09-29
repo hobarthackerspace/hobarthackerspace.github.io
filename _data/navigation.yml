@@ -20,8 +20,10 @@ side:
     children:
       - title: "Terms of use"
         url: /terms_of_use/
-      - title: "Membership payments"
-        url: "https://hobarthackerspace.tidyhq.com/"
+      - title: "New member registration"
+        url: "https://hobarthackerspace.tidyhq.com/signup/new"
+      - title: "Membership renewal"
+        url: "https://hobarthackerspace.tidyhq.com/users/sign_in"
   - title: "Events"
     url: /events/
     children:
