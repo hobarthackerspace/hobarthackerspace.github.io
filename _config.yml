@@ -34,7 +34,8 @@ search: true
 
 # Build settings
 #theme: minima
-markdown: GFM
+markdown: kramdown
+  # don't use GHM - it breaks the contact page <textarea>
 #theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes 
 
