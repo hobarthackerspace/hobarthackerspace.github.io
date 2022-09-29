@@ -7,6 +7,8 @@ main:
     url: /safety/
   - title: Membership
     url: /membership/
+  - title: "Contact us"
+    url: /contact/
 
 side:
   - title: "Home"
@@ -44,6 +46,8 @@ side:
         url: /facilities/radio-station/
   - title: "Safety"
     url: /safety/
+  - title: "Contact us"
+    url: /contact/
   # - title: "Blog Categories"
   #   url: /categories/
   # - title: "Blog Tags"
