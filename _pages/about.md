@@ -20,13 +20,9 @@ to technology and art. After many months of searching, a license was
 signed with the Tasmanian Department of Health and Human Services to
 utilise one of the heritage guardhouses at 2 St Johns Ave, New Town.
 
-We are still in this building, though quickly outgrowing it so have
-begun the search for a new home, hopefully with higher ceilings and more
-open spaces.
-
 Visitors are welcome on Thursday nights from 7pm, however, you will be
-asked to join after a few visits as we are currently funded entirely
-through membership fees.
+asked to join after a few visits as we rely on membership fees for a 
+significant portion of our funding.
 
 For more information, please contact us at
 committee@hobarthackerspace.org.au for quickest response to contact

@@ -73,7 +73,7 @@ agreement to these rules before your membership can be confirmed.
     permit any other person to enter the space except in compliance with
     the rule regarding guests below.
 7.  I understand that I may invite one guest into the space at a time.
-    Each guest may only attend two times before they will be required to
+    Each guest may only attend four times before they may be required to
     become a member. I will assume full responsibility for the behaviour
     and actions of any of my guests.
 8.  I agree to take responsibility for the security of the space,
@@ -123,9 +123,9 @@ agreement to these rules before your membership can be confirmed.
 
 ### Workplace Health and Safety
 
-1.  I agree not to utilise any tool or piece of equipment unless I are
+1.  I agree not to utilise any tool or piece of equipment unless I am
     competent in its use (and have completed induction/training where
-    necessary and have read all manuals and safety instructions) or are
+    necessary and have read all manuals and safety instructions) or am
     under the direct supervision of a competent user.
 2.  I agree not to utilise any tool or piece of equipment if I am
     adversely affected by alcohol, drugs, illness, fatigue or any other

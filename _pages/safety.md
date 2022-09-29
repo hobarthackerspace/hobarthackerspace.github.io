@@ -18,13 +18,11 @@ all equipment and work practices in the Hackerspace are safe.
 -   You must ensure you have been trained and are competent on the safe
     use of any equipment you wish to use
 -   No one is to work on any mains voltage equipment unless you are
-    appropriately licensed to do so
+    appropriately licensed to do so and there is someone else  present in the Space
 -   Encourage those around you to work safely, and report any problems
     you see
 -   Tag and report any faulty equipment
 -   No machinery is to be left running unsupervised
--   When working on exposed electrical circuitry carrying mains or higher 
-    voltages there must be someone else  present in the Space.
 
 Please report any incidences or concerns about safety using the contact
 form on this website
