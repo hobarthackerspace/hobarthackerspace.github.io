@@ -21,18 +21,8 @@ motors turn. Play with different electrodes to turn the doh in to a
 battery and inadvertently learn some new things about analogue
 electronics in the process.
 
-**Coder Dojo -- Beginner**\
-CoderDojo is a volunteer led, global movement oriented around running
-free not-for-profit coding clubs and regular sessions for young people
-aged 7-17, specializing in computer programming, technology and
-electronics. CoderDojo @ Hobart Hackerspace emphasises self motivated
-learning through fun projects, peer to peer mentoring and creativity.
-Young people learn from one another about computers, programming, tools
-and the maker movement. More information available
-from [http://coderdojo.com](http://coderdojo.com/)
-
 **Introduction to Electronics -- Beginner**\
-Taught by three of our most experienced members, this course covers all
+Taught by several of our most experienced members, this course covers all
 the basics of electronics. Calculating voltages and currents, Ohms law,
 what different components do and how they function. By the end of this
 workshop series you should be able to comfortably design and build a
@@ -59,17 +49,17 @@ parts quicker or we can work with you to design something to suit your
 own needs.
 
 **3D CAD -- Beginner**\
-Using FreeCAD Primitives and Boolean Operations (Don't worry, we'll
+Using FreeCAD Primitives and Boolean Operations (don't worry, we'll
 explain this), you can learn enough to be able to design simple 3D
 Objects and prepare them for the CNC Mill or 3D printer. Once you have
 got these basics covered, you'll be surprised how easy it is.
 
 **CNC Mill -- Moderate**\
-Probably our most complicated peice of equipment is the CNC Mill. To
+Probably our most complicated piece of equipment is the CNC Mill. To
 operate this you need to understand the principles of how the tools cut,
-how to calculate speeds, how to prepare toolpaths in CAM (using CamBam)
+how to calculate speeds, how to prepare tool paths in CAM (using CamBam)
 and how to set up and operate the mill itself. This is a workshop series
-of 4 evenings offered regularly.
+of 4 evenings.
 
 **Other Workshops**\
 Our members have a huge range of skills and are all too willing to share

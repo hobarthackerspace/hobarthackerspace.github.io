@@ -24,5 +24,5 @@ all equipment and work practices in the Hackerspace are safe.
 -   Tag and report any faulty equipment
 -   No machinery is to be left running unsupervised
 
-Please report any incidences or concerns about safety using the contact
-form on this website
+Please report any incidences or concerns about safety using the [contact
+form](/contact/) on this website
