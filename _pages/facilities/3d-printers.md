@@ -5,17 +5,17 @@ author_profile: false
 layout: single
 ---
 
-### Maker-bot Replicator
+## Printers
 
-The Makerbot replicator was our first major purchase when we opened the
-space, made possible by generous donations from a number of members.  It
-is a dual head extrusion type printer which works a little like a hot
-glue gun pushing out a fine bead of ABS or PLA plastic and layering
-these on top of each other to make a 3 dimensional object.\
-Instruction on how to use this machine is usually provided by Patrick
-who will run through the process of calibrating and operating the
-machine itself, along with how to produce printable files and what the
-limitations are.
+### [Sidewinder X2](https://www.artillery3d.com/products/artillery-sidewinder-x1-sw-x1-3d-printer-300x300x400mm-large-plus-size-high-precision-dual-z-axis-tft-touch-screen)
+- 300x300x400 bed size
+- PLA & ABS filament
+
+### Jaycar Arduino 3D printer
+
+-   Set up with PLA.
+-   Repetier software
+-   Arduino brain
 
 ### Safety Warnings
 
@@ -38,19 +38,11 @@ website:
 
 <http://www.makerbot.com/blog/2012/03/13/the-makerbot-replicator-user-guide/>
 
-### **Jaycar Arduino 3D printer**
-
--   Set up with PLA.
--   Repetier software
--   Arduino brain
-
-**Note:** if your print starts to lean towards one of the corners then
-you'll need to lubricate the metal bars.
-
-Others
+We do have some other, older ones that are not fully functional:
 
 -   Cupcake -- a small printer that Mark P has kindly rebuilt. Needs a
     PC building to drive it, and a better home in the space!
 -   The Prusa -- a larger printer donated to us by Michael R. It
     currently lives in the electronics room. Apparently it works, but we
     need to build a PC to drive it.
+-   MakerBot Replicator -- Our first 3D printer, it's now both out of date and somewhat sick.
