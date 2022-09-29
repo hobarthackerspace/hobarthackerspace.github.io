@@ -24,6 +24,26 @@ Visitors are welcome on Thursday nights from 7pm, however, you will be
 asked to join after a few visits as we rely on membership fees for a 
 significant portion of our funding.
 
-For more information, please contact us at
-committee@hobarthackerspace.org.au for quickest response to contact
-members of the management committee.
+### Governance
+
+The Hobart Hackerspace is a [registered Tasmanian not-for-profit association](https://www.cbos.tas.gov.au/topics/clubs-fundraising/incorporated-associations) (Reg no IA12014).
+
+Our activities are governed by our [Articles of Association (Constitution)](/assets/documents/Constitution-2019-as-approved.pdf/). Although we are fundamentally a loose co-operative group, we have a Committee to make formal decisions.
+
+### Committee 2022/23 ###
+
+| Position          | Person |
+| --------------- | -------- |
+| President | Alistair Chilcott | 
+| Vice-president | Tanya McLachlin-Troup |
+| Secretary | Leo Febey | 
+| Treasurer | David Morton | 
+| Public Officer | Brian Marriott | 
+| Committee members | David Craig | 
+|   | Shane Dalgliesh | 
+|   | Tom Harris | 
+|   | Colin Sinclair | 
+|   | Trent Wyllie | 
+
+
+For more information, please contact us with the [contact form](/contact/) on this site.
