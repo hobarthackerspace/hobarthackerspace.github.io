@@ -3,9 +3,6 @@ permalink: /facilities/laser-cutter/
 title: "Laser Cutter/Engraver"
 author_profile: false
 layout: single
-sidebar:
-  nav: "side"
-
 ---
 
 # Laser Cutter/Engraver

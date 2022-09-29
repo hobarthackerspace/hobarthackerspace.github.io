@@ -135,6 +135,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      sidebar: 
+        nav: "side"
   
 
 category_archive:

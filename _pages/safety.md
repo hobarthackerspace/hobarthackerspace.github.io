@@ -3,8 +3,6 @@ permalink: /safety/
 title: "Safety"
 layout: single
 author_profile: false
-sidebar:
-  nav: "side"
 ---
 
 ## Be safe in the Space

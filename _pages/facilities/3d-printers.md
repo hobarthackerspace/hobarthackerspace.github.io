@@ -3,9 +3,6 @@ permalink: /facilities/3d-printers/
 title: "3D Printers"
 author_profile: false
 layout: single
-sidebar:
-  nav: "side"
-
 ---
 
 ### Maker-bot Replicator

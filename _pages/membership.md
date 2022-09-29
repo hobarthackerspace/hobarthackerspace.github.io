@@ -3,9 +3,6 @@ permalink: /membership/
 title: "Membership"
 author_profile: false
 layout: single
-sidebar:
-  nav: "side"
-
 ---
 
 ## Memberships

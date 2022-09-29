@@ -3,9 +3,6 @@ permalink: /facilities/robotics/
 title: "Robotics Club"
 author_profile: false
 layout: single
-sidebar:
-  nav: "side"
-
 ---
 
 One of our members, Bob Elliot, runs a Robot Club on Friday afternoons

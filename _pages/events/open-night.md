@@ -2,8 +2,6 @@
 permalink: /events/open-night/
 title: "Open Night"
 author_profile: false
-sidebar:
-  nav: "side"
 ---
 We have an Open Night every Thursday from 7pm until late.  This is a
 perfect opportunity to come along to the space and meet the members,

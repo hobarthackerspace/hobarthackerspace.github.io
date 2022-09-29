@@ -2,8 +2,6 @@
 permalink: /events/workshops/
 title: "Workshops"
 author_profile: false
-sidebar:
-  nav: "side"
 ---
 A core objective of Hobart Hackerspace Inc. is to promote technical
 innovation in the wider community, as such we sometimes run workshops

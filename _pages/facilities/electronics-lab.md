@@ -3,9 +3,6 @@ permalink: /facilities/electronics-lab/
 title: "Electronics Lab"
 author_profile: false
 layout: single
-sidebar:
-  nav: "side"
-
 ---
 
 Our electronics workbench is complete with soldering, desoldering, power

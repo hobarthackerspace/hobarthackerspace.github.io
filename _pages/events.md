@@ -3,9 +3,6 @@ permalink: /events/
 title: "Events"
 author_profile: false
 layout: single
-sidebar:
-  nav: "side"
-
 ---
 Many HackerSpace members enjoy working quietly in the Space when there\'s no-one else around, 
 but in addition, we involve ourselves in many events, both in the Space and as part of bigger public events. 

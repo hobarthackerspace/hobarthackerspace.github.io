@@ -3,9 +3,6 @@ permalink: /facilities/radio-station/
 title: "Amateur Radio Station"
 author_profile: false
 layout: single
-sidebar:
-  nav: "side"
-
 ---
 
 Hobart Hackerspace has a licensed Amateur Radio (Ham) station, with callsign: **[VK7HHS](https://www.qrz.com/db/VK7HHS)**

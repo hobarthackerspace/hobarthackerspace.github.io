@@ -3,9 +3,6 @@ permalink: /facilities/cnc-routers/
 title: "CNC Routers"
 author_profile: false
 layout: single
-sidebar:
-  nav: "side"
-
 ---
 
 # CNC Router (Flat Bed)
