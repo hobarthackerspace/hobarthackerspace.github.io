@@ -31,6 +31,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 minimal_mistakes_skin: default
 search: true
+search_provider: algolia
+# see below for algolia settings
 
 # Build settings
 #theme: minima
@@ -78,6 +80,12 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+algolia:
+  application_id: DHEV60939M
+  index_name: HHS_website
+  search_only_api_key: 17130c76a57680680b69669d378c2e1b
+#  powered_by: # true (default), false
 
 
 
