@@ -43,7 +43,9 @@ issue if we get some kind of bot attack.
 
 The index needs to be re-created each time an update occurs to the site. This is (still to be) done using a 
 subscription to the continuous integration tool [Travis-CI](https://travis-ci.org/), which hooks to the GitHub
-repo each time a push is made. If you are previewing locally, the index still works. Use the bash command 
+repo each time a push is made. 
+
+If you are previewing locally, the index still works. Use the bash command 
 `ALGOLIA_API_KEY=secret-key bundle exec jekyll algolia` to re-index the site (the api key secret-key is in the safe with the algolia account password).
 
 ### Results page
