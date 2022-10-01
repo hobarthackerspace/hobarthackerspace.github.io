@@ -8,9 +8,12 @@ layout: single
 One of our members, Bob Elliot, runs a Robot Club on Friday afternoons
 for school-age children in Hobart.
 
-He makes regular use of the CNC mill to cut out each wooden chassis.
+![Omni Wheel](/assets/images/pages/robotics/Omni-wheel.jpg)  
+A custom made Omni wheel 
 
-Bob's often here during open night too (Thursday evenings), so please
+Bob makes regular use of the CNC mill to cut out each wooden chassis.
+
+He is often here during open night too (Thursday evenings), so please
 ask for him by name, if you want to learn more about the club.
 
 Access to Friday\'s session is by gold coin donation but we also now

@@ -34,6 +34,7 @@ Membership comes with some great benefits:
 -   Invitations to special workshops and events.
 -   Ability to create blog pages on the website.
 -   Opportunities to train on, and use the specialist machinery and equipment.
+-   Insurance protection while using the Space.
 
 ## Membership terms of use
 All members must agree to our [Terms of Use](/terms_of_use/) before they can be accepted as members or use the Space.

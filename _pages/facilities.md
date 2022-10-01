@@ -20,10 +20,8 @@ We have some cool gear &#x1F60E;.
 
 For making, we have: [several 3D printers](/facilities/3d-printers/), [two CNC machines](/facilities/cnc-routers/), [a laser cutter/engraver](/facilities/laser-cutter/), plasma cutting & welding gear and all the usual smaller tools.
 
-For electronics we have an [electronics workbench plus test & rework equipment](/facilities/electronics-lab/)
+For electronics we have an [electronics workbench plus test & rework equipment](/facilities/electronics-lab/).
 
-And of course lots of tables set up for your computers (or use the ones that we have...)
+And of course lots of tables set up for your computers (or use the ones that we have).
 
 We even have our own [Amateur Radio station](/facilities/radio-station/)!
-
-Follow the links above or in the side menu for more details.

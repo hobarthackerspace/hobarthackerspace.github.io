@@ -12,6 +12,8 @@ Hobart Hackerspace has a licensed Amateur Radio (Ham) station, with callsign: **
 
 Any member or visitor may use the equipment to communicate with other Amateur Radio operators anywhere in the world, so long as there is a licensed operator on the premises.
 
+![On the air](/assets/images/pages/radio-station/Leo-on-the-mic.jpg) ![HF Transceiver](/assets/images/pages/radio-station/HF-transceiver.jpg)
+
 Currently, our licensed members are:
 
 | Member          | Callsign |

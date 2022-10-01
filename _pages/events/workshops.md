@@ -61,6 +61,16 @@ how to calculate speeds, how to prepare tool paths in CAM (using CamBam)
 and how to set up and operate the mill itself. This is a workshop series
 of 4 evenings.
 
+**Soldering -- Beginner**\
+Soldered joints are fundamental to electronics, but soldering is a technique 
+that frightens some. But it's a simple skill when you know it.
+Our fun workshops give people of all ages the opportunity
+to learn this skill and produce reliable wiring and printer circuit 
+assemblies.
+![Soldering workshop](/assets/images/pages/workshops/Soldering-workshop.jpg)  
+Kids in a soldering workshop 
+
+
 **Other Workshops**\
 Our members have a huge range of skills and are all too willing to share
 what they know. We regularly host workshops on other topics such as the

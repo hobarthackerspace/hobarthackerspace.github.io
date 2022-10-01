@@ -7,9 +7,12 @@ layout: single
 
 ## Printers
 
-### [Sidewinder X2](https://www.artillery3d.com/products/artillery-sidewinder-x1-sw-x1-3d-printer-300x300x400mm-large-plus-size-high-precision-dual-z-axis-tft-touch-screen)
+### [Sidewinder X1](https://www.artillery3d.com/products/artillery-sidewinder-x1-sw-x1-3d-printer-300x300x400mm-large-plus-size-high-precision-dual-z-axis-tft-touch-screen)
 - 300x300x400 bed size
 - PLA & ABS filament
+![Sidewinder X1](/assets/images/pages/3d-printer/Sidewinder-x1.jpg)  
+The Sidewinder
+
 
 ### Jaycar Arduino 3D printer
 
@@ -29,14 +32,6 @@ safety covers are in place before you start.
 
 **Warning:** The stepper motors are stronger than they look, do not
 attempt to put your hands inside the machine while it is moving.
-
-### User Information
-
-We are still working on a user guide specific to our hackerspace, in the
-mean time information about this machine can be found on the makerbot
-website:
-
-<http://www.makerbot.com/blog/2012/03/13/the-makerbot-replicator-user-guide/>
 
 We do have some other, older ones that are not fully functional:
 

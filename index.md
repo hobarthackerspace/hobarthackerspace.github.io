@@ -12,6 +12,18 @@ sidebar:
 
 ## Welcome to Hobart Hackerspace. Our motto is *Make, Learn, Inspire.*
 
+Are you interested in, or need help, creating with this technology:
+- 3D-printing,
+- laser cutting & engraving,
+- Robotics
+- CNC Routing,
+- Amateur Radio,
+- Electronics, and more.
+
+Or do you just like to chat with others passionate about technology?
+
+If so, we welcome you to try a Hobart Hackerspace Open Night.  They're on Thursday from 7:00 to 9:30 PM, where you can meet us, see the facilities and even start your projects.  (Under 18's please bring a responsible adult.) After several visits you're welcome to join us as a member.
+
 There are many benefits to [becoming a member](/membership-benefits/).
 These include:
 
