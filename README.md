@@ -18,7 +18,7 @@ with suitable "front matter" (use an existing page for a model for new front mat
 
 If the page is long(-ish), add a table of contents as in the [About](https://hobarthackerspace.org.au/about/) page front matter.
 
-Add pictures to your content with the basic markdown syntax `![Title](URL)`.
+Add pictures to your content with the [basic markdown syntax](https://www.markdownguide.org/basic-syntax) `![Title](URL)`.
 For example: `![Beambox-safety](/assets/images/pages/laser-cutter/Beambox-safety.jpg)`. More sophisticated picture use can be done using the [Figure layout](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#figure)
 
 ### File/directory structure of the repo
