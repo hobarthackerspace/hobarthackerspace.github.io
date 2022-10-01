@@ -3,6 +3,9 @@ permalink: /facilities/radio-station/
 title: "Amateur Radio Station"
 author_profile: false
 layout: single
+header:
+  image: /assets/images/pages/radio-station/Radio-station-ken-1024.jpg
+  caption: "VK7HHS running slow-scan TV. Photo courtesy Ken Sulman"
 ---
 
 Hobart Hackerspace has a licensed Amateur Radio (Ham) station, with callsign: **[VK7HHS](https://www.qrz.com/db/VK7HHS)**
@@ -15,3 +18,5 @@ Currently, our licensed members are:
 | --------------- | -------- |
 | Ken Sulman | [VK7DY](https://www.qrz.com/db/VK7DY) | 
 | Brian Marriott | [VK7BM](https://www.qrz.com/db/VK7BM) |
+
+Several other members are in the process of obtaining their Foundation Amateur Radio licence, in conjunction with the [Radio and Electronics Association of Southern Tasmania Inc](https://www.reast.asn.au/).
