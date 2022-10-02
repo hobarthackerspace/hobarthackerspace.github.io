@@ -27,6 +27,11 @@ To keep things maintainable with a number of us maintaining the site, keep the "
 to mirror the site structure. (So, if the URL your page is `/example/content/`, call the page file `content.md` 
 and place it in the directory `_page/example/`, creating that directory if necessary.)
 
+## Add-on tools
+
+- Slideshow Carousel
+  - ["Jekyll without plugins" / Slider/Carousel](https://jekyllcodex.org/without-plugin/slider/#)
+
 ## Site search facility
 
 ### Tools
