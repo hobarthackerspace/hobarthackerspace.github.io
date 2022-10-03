@@ -46,6 +46,9 @@ side:
         url: /facilities/robotics/
       - title: "Radio Station"
         url: /facilities/radio-station/
+      - title: "Metalworking tools"
+        url: /facilities/metalworking/
+ 
   - title: "Safety"
     url: /safety/
   - title: "Contact us"
