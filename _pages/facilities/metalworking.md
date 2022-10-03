@@ -1,6 +1,6 @@
 ---
 permalink: /facilities/metalworking/
-title: "Robotics Club"
+title: "Metalworking Tools"
 author_profile: false
 layout: single
 carousels:
