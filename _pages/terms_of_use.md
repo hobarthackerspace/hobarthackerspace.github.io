@@ -3,6 +3,9 @@ permalink: /terms_of_use/
 title: "Membership Agreement and Acceptable Use Policy"
 layout: single
 author_profile: false
+toc: true
+toc_label: "Page contents"
+
 ---
 
 # **Hobart Hackerspace Inc.**
