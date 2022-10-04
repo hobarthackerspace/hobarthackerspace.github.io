@@ -122,9 +122,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/hobarthackerspace/"
-    - label: "Facebook"
+    - label: "Facebook public page"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/hobarthackerspace"
+    - label: "Facebook members-only group"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/groups/HobartHackerspaceMembers"
 
 defaults:
   # _posts
