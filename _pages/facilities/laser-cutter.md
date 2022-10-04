@@ -52,6 +52,7 @@ See the [Beambox materials recommendations](https://support.flux3dp.com/hc/en-us
 ### 🔴 Unsuitable materials 🔴
 
 Certain plastics (eg PVC, ABS) are **not safe** for laser engraving or cutting because they emit toxic gases when heated. Please check with the [Beambox safety advice](https://support.flux3dp.com/hc/en-us/articles/4405448254095-Hazardous-Materials) before considering using something new.
+{: .notice--danger}
 
 ## Recommended settings
 
