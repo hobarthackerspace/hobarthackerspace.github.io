@@ -30,6 +30,7 @@ domain: "hobarthackerspace.github.io"
 #twitter_username: jekyllrb
 github_username:  jekyll
 minimal_mistakes_skin: default
+#breadcrumbs: true # disabled because it's placement is horrible
 search: true
 search_provider: algolia
 # see below for algolia settings
