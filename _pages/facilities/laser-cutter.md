@@ -25,6 +25,8 @@ These can be vector or raster images.
 
 The [Beambox Guide](https://support.flux3dp.com/hc/en-us/categories/360000121176-Beambox-Guide) provides lots of useful information.
 
+[Here it is cutting apart two slide rule scales that it has just engraved.](https://vimeo.com/758348737)
+
 ## Suitable materials
 
 Some suitable materials for cutting with the Laser Cutter are:
