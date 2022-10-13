@@ -13,9 +13,9 @@ from your 4th visit.
 
 Our membership system is currently hosted by TidyHQ.
 
-Existing members: [renew your membership here](https://hobarthackerspace.tidyhq.com/users/sign_in).
+Existing members: [renew your membership here](https://hobarthackerspace.tidyhq.com/public/membership_levels).
 
-If you'd like to join: [please sign up here](https://hobarthackerspace.tidyhq.com/signup/new).\
+If you'd like to join: [please sign up here](https://hobarthackerspace.tidyhq.com/public/membership_levels).\
 Once your membership is paid, talk to a Committee member to arrange issue of an access tag.
 
 

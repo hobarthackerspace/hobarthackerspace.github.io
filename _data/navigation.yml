@@ -21,9 +21,9 @@ side:
       - title: "Terms of use"
         url: /terms_of_use/
       - title: "New member registration"
-        url: "https://hobarthackerspace.tidyhq.com/signup/new"
+        url: "https://hobarthackerspace.tidyhq.com/public/membership_levels"
       - title: "Membership renewal"
-        url: "https://hobarthackerspace.tidyhq.com/users/sign_in"
+        url: "https://hobarthackerspace.tidyhq.com/public/membership_levels"
   - title: "Events"
     url: /events/
     children:
