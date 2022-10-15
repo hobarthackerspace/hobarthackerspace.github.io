@@ -23,7 +23,7 @@ side:
       - title: "New member registration"
         url: "https://hobarthackerspace.tidyhq.com/public/membership_levels"
       - title: "Membership renewal"
-        url: "https://hobarthackerspace.tidyhq.com/public/membership_levels"
+        url: "https://hobarthackerspace.tidyhq.com/users/sign_in"
   - title: "Events"
     url: /events/
     children:
