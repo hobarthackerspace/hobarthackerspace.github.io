@@ -13,7 +13,12 @@ from your 4th visit.
 
 Our membership system is currently hosted by TidyHQ.
 
+<<<<<<< Updated upstream
 Existing members: [renew your membership here](https://hobarthackerspace.tidyhq.com/users/sign_in).
+=======
+Existing members: [renew your membership here](https://hobarthackerspace.tidyhq.com/users/sign_in).  
+Note that it will ask immediately (without any identity or informative details) for an email and password. These are for TidyHQ, which is currently providing our membership subscription service. The email address and  are those with which you signed up or last paid your Hackerspace membership.
+>>>>>>> Stashed changes
 
 If you'd like to join: [please sign up here](https://hobarthackerspace.tidyhq.com/public/membership_levels).\
 Once your membership is paid, talk to a Committee member to arrange issue of an access tag.
