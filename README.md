@@ -31,6 +31,9 @@ and place it in the directory `_page/example/`, creating that directory if neces
 
 - Slideshow Carousel
   - ["Jekyll without plugins" / Slider/Carousel](https://jekyllcodex.org/without-plugin/slider/#)
+- Contact Us page
+  - This uses a very simple form POSTing to an account on the [HeroTofu service](https://herotofu.com/).  This free account is good for 1000 submissions/month.
+  - Queries are forwarded to the Committee. Account credentials are in the password safe. 
 
 ## Site search facility
 
