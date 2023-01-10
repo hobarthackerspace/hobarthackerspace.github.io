@@ -1,4 +1,27 @@
-# hobarthackerspace.github.io
+---
+# The following text specifies document properties used when converting to PDF via pandoc (use: pandoc -s -o README.pdf README.md )
+# This is a YAML metadata block. For details of metadata blocks and variables see:
+#    Metadata blocks: https://pandoc.org/MANUAL.html#extension-yaml_metadata_block
+#    Variables: https://pandoc.org/MANUAL.html#variables
+# For Geometry parameters see: https://texdoc.org/serve/geometry.pdf/0
+#
+# title: "Hobart Hackerspace static website"
+# author: Brian Marriott
+lang: en-au
+documentclass: report
+papersize: a4
+margin-left: 20mm
+margin-right: 15mm
+margin-top: 25mm
+margin-bottom: 15mm
+# classoption:
+# 	- twocolumn
+microtypeoptions:
+	- activate
+---
+
+# Hobart Hackerspace static website
+## hobarthackerspace.github.io
 A GitHub Docs space for the Hackerspace
 
 This repository serves as the source for the HHS public web site: <https://hobarthackerspace.org.au/>
@@ -9,7 +32,11 @@ This repository serves as the source for the HHS public web site: <https://hobar
 
 The site is built with Jekyll, using the [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/) theme.
 
-You can get a working copy of the site by cloning this repository. If you install Ruby & Jekyll on your local machine, you can review site changes before committing to your working copy (let alone pushing up to GitHub) by executing the command `bundle exec jekyll serve`. This will present you with a view of the site at [http://localhost:4000](http://localhost:4000).
+#### Working copy
+The site files live in a `git` [repository on GitHUB](https://github.com/hobarthackerspace/hobarthackerspace.github.io). You can get a working copy of the site by cloning this repository (It's also the one in which this README resides). 
+
+#### Previews
+If you install Ruby & Jekyll on your local machine, you can review site changes before committing to your working copy (let alone pushing up to GitHub) by executing the command `bundle exec jekyll serve`. This will present you with a view of the site at [http://localhost:4000](http://localhost:4000).
 
 ### Adding pages
 
@@ -18,8 +45,9 @@ with suitable "front matter" (use an existing page for a model for new front mat
 
 If the page is long(-ish), add a table of contents as in the [About](https://hobarthackerspace.org.au/about/) page front matter.
 
-Add pictures to your content with the [basic markdown syntax](https://www.markdownguide.org/basic-syntax) `![Title](URL)`.
-For example: `![Beambox-safety](/assets/images/pages/laser-cutter/Beambox-safety.jpg)`. More sophisticated picture use can be done using the [Figure layout](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#figure)
+Add pictures to your content with the [basic markdown syntax](https://www.markdownguide.org/basic-syntax) `![Title](URL)`.  
+For example: `![Beambox-safety](/assets/images/pages/laser-cutter/Beambox-safety.jpg)`.  
+More sophisticated picture use can be done using the [Figure layout](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#figure)
 
 ### File/directory structure of the repo
 
