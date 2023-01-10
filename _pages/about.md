@@ -31,7 +31,7 @@ significant portion of our funding.
 
 The Hobart Hackerspace is a [registered Tasmanian not-for-profit association](https://www.cbos.tas.gov.au/topics/clubs-fundraising/incorporated-associations) (Reg no IA12014).
 
-Our activities are governed by our [Articles of Association (Constitution)](/assets/documents/Constitution-2019-as-approved.pdf/). Although we are fundamentally a loose co-operative group, we have a Committee to make formal decisions.
+Our activities are governed by our [Articles of Association (Constitution)](/assets/documents/Constitution-2019-as-approved.pdf). Although we are fundamentally a loose co-operative group, we have a Committee to make formal decisions.
 
 ### Committee 2022/23 ###
 
