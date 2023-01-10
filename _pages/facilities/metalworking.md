@@ -8,6 +8,7 @@ carousels:
     - image: /assets/images/pages/metalworking/Mig-welding.jpg
     - image: /assets/images/pages/metalworking/Welding-party.jpg
     - image: /assets/images/pages/metalworking/plasma-cutter.jpg
+    - image: /assets/images/pages/metalworking/large-items-workspace.jpg
     - image: /assets/images/pages/metalworking/Protective-equipment.jpg
 
 ---
