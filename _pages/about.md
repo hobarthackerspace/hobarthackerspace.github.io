@@ -37,8 +37,8 @@ Our activities are governed by our [Articles of Association (Constitution)](/ass
 
 | Position          | Person |
 | --------------- | -------- |
-| President | Alistair Chilcott | 
-| Vice-president | Tanya McLachlin-Troup |
+| President | Tanya McLachlin-Troup | 
+| Vice-president | (vacant) |
 | Secretary | Leo Febey | 
 | Treasurer | David Morton | 
 | Public Officer | Brian Marriott | 
