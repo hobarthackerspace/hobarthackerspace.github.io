@@ -17,7 +17,7 @@ margin-bottom: 15mm
 # classoption:
 # 	- twocolumn
 microtypeoptions:
-	- activate
+  - activate
 ---
 
 # Hobart Hackerspace static website
