@@ -38,14 +38,12 @@ Our activities are governed by our [Articles of Association (Constitution)](/ass
 | Position          | Person |
 | --------------- | -------- |
 | President | Tanya McLachlin-Troup | 
-| Vice-president | (vacant) |
+| Vice-president | Tom Harris |
 | Secretary | Leo Febey | 
-| Treasurer | David Morton | 
+| Treasurer | Shane Dalgliesh | 
 | Public Officer | Brian Marriott | 
 | Committee members | David Craig | 
-|   | Shane Dalgliesh | 
-|   | Tom Harris | 
-|   | Colin Sinclair | 
+|   | Zoë Sharman | 
 |   | Trent Wyllie | 
 
 
