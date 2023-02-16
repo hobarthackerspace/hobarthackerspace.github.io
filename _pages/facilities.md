@@ -3,17 +3,21 @@ permalink: /facilities/
 title: "Facilities"
 layout: single
 author_profile: false
+carousels:
+  - images: 
+    - image: /assets/images/pages/facilities/street-view.jpg
+    - image: /assets/images/pages/facilities/back-entrance.jpg
 ---
 
 # Our facilities
 ## Our Space
-Our Space is located a 2 St Johns Avenue, New Town. It's on the corner of New Town Road and St Johns Avenue, between the Ogilvie Campus of the Hobart City High School and the Southern Tasmanian Netball Centre. The building is a convict-era Guardhouse (built around 1830) of the former St Johns Park orphanage and Government Farm. 
+Our Space is located at [2 St Johns Avenue, New Town](https://www.openstreetmap.org/#map=19/-42.85322/147.30015). It's on the corner of New Town Road and St Johns Avenue, between the Ogilvie Campus of the Hobart City High School and the Southern Tasmanian Netball Centre. The building is a convict-era Guardhouse (built around 1830) of the former St Johns Park orphanage and Government Farm. 
+
+{% include carousel.html height="40" unit="%" duration="5" number="1" %}
 
 Rooms in this old building are large enough to allow groups of people to work together, but small enough to allow separation of different activities without too much mutual interference.
 
 Members can use the space at any time (24hr access), but we ask you to respect the vintage of the building and its inherent fragility in some aspects. Note, too, that our lease requires "that no intoxicating liquor is brought on to or consumed on the Premises".
-
-TODO- need some pictures here...
 
 ## Our tools and equipment
 We have some cool gear &#x1F60E;. 
