@@ -14,7 +14,7 @@ carousels:
 
 - We have an Open Night on Thursdays each week, which usually becomes a social event
   - We're open from 7:00pm onwards
-  - Like-minded folks chat on an amazing range of topics
+  - Like-minded folks chat and work on an amazing range of topics and projects
   - If the weather is at all good we'll have a BBQ
   - And there's lots of sweeties in the honesty shop
 
