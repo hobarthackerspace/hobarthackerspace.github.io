@@ -12,7 +12,8 @@ carousels:
 ---
 {% include carousel.html height="70" unit="%" duration="4" number="1" %}
 
-- We have an Open Night each week, which usually becomes a social event
+- We have an Open Night on Thursdays each week, which usually becomes a social event
+  - We're open from 7:00pm onwards
   - Like-minded folks chat on an amazing range of topics
   - If the weather is at all good we'll have a BBQ
   - And there's lots of sweeties in the honesty shop
