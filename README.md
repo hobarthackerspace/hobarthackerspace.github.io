@@ -36,18 +36,20 @@ The site is built with Jekyll, using the [minimal-mistakes](https://github.com/m
 The site files live in a `git` [repository on GitHUB](https://github.com/hobarthackerspace/hobarthackerspace.github.io). You can get a working copy of the site by cloning this repository (It's also the one in which this README resides). 
 
 #### Previews
-If you install Ruby & Jekyll on your local machine, you can review site changes before committing to your working copy (let alone pushing up to GitHub) by executing the command `bundle exec jekyll serve`. This will present you with a view of the site at [http://localhost:4000](http://localhost:4000).
+If you install Ruby & Jekyll on your local machine, you can review site changes before committing to your working copy (let alone pushing up to GitHub) by executing the command `bundle exec jekyll serve`. This will present you with a view of the site at [`http://localhost:4000`](http://localhost:4000).
+
+To install Ruby & Jekyll, follow the appropriate guide from [`here`](https://jekyllrb.com/docs/installation/). Don't bother to install Ruby first (unless you already use it for something else) - it's included in the above links and following those ensures a compatible version. If you already use it, you probably know about `chruby` or similar to give a suitable virtual environment.
 
 ### Adding pages
 
 To add a page to the site, put the appropriate markdown document in the `_pages` directory, 
-with suitable "front matter" (use an existing page for a model for new front matter). See [the minimal-mistakes guide](https://mmistakes.github.io/minimal-mistakes/docs/pages/) for more details.
+with suitable "front matter" (use an existing page for a model for new front matter). See [the `minimal-mistakes guide`](https://mmistakes.github.io/minimal-mistakes/docs/pages/) for more details.
 
-If the page is long(-ish), add a table of contents as in the [About](https://hobarthackerspace.org.au/about/) page front matter.
+If the page is long(-ish), add a table of contents as in the [`About`](https://hobarthackerspace.org.au/about/) page front matter.
 
 Add pictures to your content with the [basic markdown syntax](https://www.markdownguide.org/basic-syntax) `![Title](URL)`.  
 For example: `![Beambox-safety](/assets/images/pages/laser-cutter/Beambox-safety.jpg)`.  
-More sophisticated picture use can be done using the [Figure layout](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#figure)
+More sophisticated picture use can be done using the [`Figure` layout](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#figure)
 
 ### File/directory structure of the repo
 
