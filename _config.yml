@@ -81,6 +81,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+#  - jekyll-ical-tag
 
 algolia:
   application_id: DHEV60939M
