@@ -7,6 +7,15 @@ layout: single
 
 ## Printers
 
+### [Flashforge Creator 3 Pro](https://www.flashforge.com/product-detail/flashforge-creator-3-pro-3d-printer)  
+- Dual extruders  
+- 300x250x200mm build volume  
+- wide range of filament types  
+- temperature stable enclosure   
+- HEPA air filtering  
+![Flashforge in action](https://vimeo.com/822587612?share=copy)  
+The Flashforge in action, showing dual head printing.
+
 ### [Sidewinder X1](https://www.artillery3d.com/products/artillery-sidewinder-x1-sw-x1-3d-printer-300x300x400mm-large-plus-size-high-precision-dual-z-axis-tft-touch-screen)
 - 300x300x400 bed size
 - PLA & ABS filament
@@ -40,4 +49,3 @@ We do have some other, older ones that are not fully functional:
 -   The Prusa -- a larger printer donated to us by Michael R. It
     currently lives in the electronics room. Apparently it works, but we
     need to build a PC to drive it.
--   MakerBot Replicator -- Our first 3D printer, it's now both out of date and somewhat sick.
