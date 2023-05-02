@@ -13,7 +13,8 @@ layout: single
 - wide range of filament types  
 - temperature stable enclosure   
 - HEPA air filtering  
-![Flashforge in action](https://vimeo.com/822587612?share=copy)  
+
+<iframe src="https://player.vimeo.com/video/822587612?h=aefa96cdc1" width="640" height="300" frameborder="0" title="Flashforge in action" allow="autoplay; fullscreen" allowfullscreen></iframe>  
 The Flashforge in action, showing dual head printing.
 
 ### [Sidewinder X1](https://www.artillery3d.com/products/artillery-sidewinder-x1-sw-x1-3d-printer-300x300x400mm-large-plus-size-high-precision-dual-z-axis-tft-touch-screen)
