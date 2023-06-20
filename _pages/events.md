@@ -23,6 +23,11 @@ carousels:
 Many Hackerspace members enjoy working quietly in the Space when there\'s no-one else around, 
 but in addition, we involve ourselves in many events, both in the Space and as part of bigger public events. 
 
+## Annual General Meeting (and pizzas!) - 15 July
+- Our Annual General Meeting will be at 11:00am on 15th July. It's always s brief event and will be followed by a BBQ & pizzas (Shane has promised to fire up the wood fired pizza oven!).
+
+	- [All the formal details are here.](/assets/documents/ADM-Agenda-2023.pdf)
+
 ## Our Calendar of Events
 - [Click here to see our public calendar of events](https://outlook.office365.com/calendar/published/8d7988fbac0b42b9b5b901717fb74780@hobarthackerspace.org.au/b648656cb5814640ac6c5dc9430601ec14074330722555189232/calendar.html) 
 
@@ -37,7 +42,7 @@ work on projects, learn some robotics or just have a general chat.
   - Hobart has an annual science-based event called the <a href="https://festivalofbrightideas.com.au/" 
    target="_blank">Festival of Bright Ideas</a> (FOBI). It\'s focussed on kids finding the joys of 
    Science & Technology and is run as part of National Science Week each year. 
-   Hobart  Hackerspace has been a regular participant for a number of years now. 
+   Hobart  Hackerspace has been a regular participant for a number of years now and will be there again in 2023. Look out for us! 
 
 {% include carousel.html height="70" unit="%" duration="5" number="1" %}
 
