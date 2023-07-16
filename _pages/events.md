@@ -23,11 +23,6 @@ carousels:
 Many Hackerspace members enjoy working quietly in the Space when there\'s no-one else around, 
 but in addition, we involve ourselves in many events, both in the Space and as part of bigger public events. 
 
-## Annual General Meeting (and pizzas!) - 15 July
-- Our Annual General Meeting will be at 11:00am on 15th July. It's always s brief event and will be followed by a BBQ & pizzas (Shane has promised to fire up the wood fired pizza oven!).
-
-	- [All the formal details are here.](/assets/documents/AGM-Agenda-2023.pdf)
-
 ## Our Calendar of Events
 - [Click here to see our public calendar of events](https://outlook.office365.com/calendar/published/8d7988fbac0b42b9b5b901717fb74780@hobarthackerspace.org.au/b648656cb5814640ac6c5dc9430601ec14074330722555189232/calendar.html) 
 
@@ -58,5 +53,9 @@ work on projects, learn some robotics or just have a general chat.
     The images below are of a Beaker Street workshop where participnts built an electronic microscope and captured some delightful images.
 {% include carousel.html height="70" unit="%" duration="6" number="2" %}
     
+## General Meetings
+### Annual General Meeting 2023
+  - Our Annual General Meeting for 2023 was held on 15th at the Space. [The minutes of the meeting are here](/assets/documents/AGM2023/AGM-minutes-2023.pdf).
+
 
 
