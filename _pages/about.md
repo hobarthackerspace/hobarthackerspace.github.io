@@ -31,19 +31,21 @@ significant portion of our funding.
 
 The Hobart Hackerspace is a [registered Tasmanian not-for-profit association](https://www.cbos.tas.gov.au/topics/clubs-fundraising/incorporated-associations) (Reg no IA12014).
 
-Our activities are governed by our [Articles of Association (Constitution)](/assets/documents/Constitution-2019-as-approved.pdf). Although we are fundamentally a loose co-operative group, we have a Committee to make formal decisions.
+Our activities are governed by our [Articles of Association (Constitution)](/assets/documents/Constitution-2023-as-approved.pdf). Although we are fundamentally a loose co-operative group, we have a Committee to make formal decisions.
 
-### Committee 2022/23 ###
+### Committee 2023/24 ###
 
 | Position          | Person |
 | --------------- | -------- |
-| President | Tanya McLachlin-Troup | 
+| President | Shane Dalgliesh | 
 | Vice-president | Tom Harris |
-| Secretary | Leo Febey | 
-| Treasurer | Shane Dalgliesh | 
+| Secretary | Zoë Sharman | 
+| Treasurer | Brian Marriott | 
 | Public Officer | Brian Marriott | 
 | Committee members | David Craig | 
-|   | Zoë Sharman | 
+|   | Leo Febey | 
+|   | Jason Hammond | 
+|   | Curtis Smith | 
 |   | Trent Wyllie | 
 
 
