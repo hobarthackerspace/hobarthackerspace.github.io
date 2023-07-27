@@ -22,9 +22,13 @@ microtypeoptions:
 
 # Hobart Hackerspace static website
 ## hobarthackerspace.github.io
-A GitHub Docs space for the Hackerspace
+A [GitHub Pages](https://docs.github.com/en/pages) space for the Hackerspace.
 
-This repository serves as the source for the HHS public web site: <https://hobarthackerspace.org.au/>
+This repository serves as the source for the HHS public web site: <https://hobarthackerspace.org.au/>.
+
+The repository exists under a [Github Free for Organizations](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-free-for-organizations) account. 
+Essentially that means that we get it for free, subject to all content being publicly available. 
+The account login ID is 'hobarthackerspace' with a registered email address of 'github@hobarthackerspace.org.au'. For the password, see our [Bitwarden](https://vault.bitwarden.com/) repository.
 
 ## Site maintenance
 
@@ -56,6 +60,29 @@ More sophisticated picture use can be done using the [`Figure` layout](https://m
 To keep things maintainable with a number of us maintaining the site, keep the "_pages" directory and filenames structured
 to mirror the site structure. (So, if the URL your page is `/example/content/`, call the page file `content.md` 
 and place it in the directory `_page/example/`, creating that directory if necessary.)
+
+## Domain Name
+### Domain name registration and DNS record hosting.
+
+Our `hobarthackerspace.org.au` domain is registered through Shane Dalgleish's NISS company.  
+There are two aspects - registration and domain record hosting.
+
+- Registration is done via `https://niss.partnerconsole.net` under the name of "The Committee" and with emails sent to the [committee address](mailto:committee@hobarthackerspace.org.au). 
+Login details are in the Bitwarden account under "Hackerspace Domain Name Registration NISS" 
+
+- Domain records hosting is accessed via `https://hosting.niss.net.au:8443`. Once again the login details are held in the Bitwarden account under "Hackerspace Hosting & DNS".
+
+*Note re Bitwarden*: Our shared Bitwarden password store is at `vault.bitwarden.com` under the account "bitwarden@hobarthackerspace.org.au".
+
+### DNS records for the website
+
+There are three specific record types relating to our website. These are constructed according to [the quite specific rules from Github Docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) about domain name redirection. 
+
+In particular, that means:
+
+- We have a `CNAME` record for 'www.hobarthackerspace.org.au' which points to `hobarthackerspace.github.io`;  
+- We have four `A` records which point to IPv4 addresses of Github Pages (185.199.108.153, 185.199.109.153, 185.199.110.153 & 185.199.111.153); and  
+- We have four `AAAA` records which point to IPv6 addresses of Github Pages (2606:50c0:8000::153, 2606:50c0:8001::153, 2606:50c0:8002::153 & 2606:50c0:8003::153).  
 
 ## Add-on tools
 
