@@ -1,5 +1,5 @@
 ---
-permalink: /members-activities/art/
+permalink: /members-activities/making-art/
 title: "Making Art..."
 author_profile: false
 layout: single
