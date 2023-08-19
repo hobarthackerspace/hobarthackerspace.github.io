@@ -9,6 +9,7 @@ carousels:
   - images: 
     - image: /assets/images/pages/events/FOBI-2023-Tom-Sara-Leo.webp
     - image: /assets/images/pages/events/FOBI-2023-Tom-vortex-cannon.webp
+    - image: /assets/images/pages/events/FOBI-2023-Robot-soccer-field.webp
     - image: /assets/images/pages/events/smoke-cannon-rings.webp
   - images: 
     - image: /assets/images/pages/events/microscope-workshop.jpg
