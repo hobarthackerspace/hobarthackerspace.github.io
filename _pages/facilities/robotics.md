@@ -5,6 +5,7 @@ author_profile: false
 layout: single
 ---
 
+![The group in action](/assets/images/pages/robotics/Robotics-group-P7273194.webp)
 One of our members, Bob Elliot, runs a Robot Club on Friday afternoons
 for school-age children in Hobart.
 
@@ -12,7 +13,7 @@ for school-age children in Hobart.
 A custom made Omni wheel 
 
 Bob makes regular use of the CNC mill to cut out each wooden chassis:  
-![Bare chasis](/assets/images/pages/robotics/Robot-chassis.jpg)  
+![Bare chassis](/assets/images/pages/robotics/Robot-chassis.jpg)  
 The bare chassis
 
 ![Built](/assets/images/pages/robotics/Robot-on-chassis.jpg)  
