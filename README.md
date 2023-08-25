@@ -26,7 +26,7 @@ A [GitHub Pages](https://docs.github.com/en/pages) space for the Hackerspace.
 
 This repository serves as the source for the HHS public web site: <https://hobarthackerspace.org.au/>.
 
-The repository exists under a [Github Free for Organizations](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-free-for-organizations) account. 
+The repository exists under a [GitHub Free for Organizations](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-free-for-organizations) account. 
 Essentially that means that we get it for free, subject to all content being publicly available. 
 The account login ID is 'hobarthackerspace' with a registered email address of 'github@hobarthackerspace.org.au'. For the password, see our [Bitwarden](https://vault.bitwarden.com/) repository.
 
@@ -38,8 +38,8 @@ Email addressed to the `github@hobarthackerspace.org.au` address is sent to a sm
 
 The site is built with Jekyll, using the [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/) theme.
 
-#### Working copy
-The site files live in a `git` [repository on GitHUB](https://github.com/hobarthackerspace/hobarthackerspace.github.io). You can get a working copy of the site by cloning this repository (It's also the one in which this README resides). 
+#### File repository
+The site files live in a `git` [repository on GitHub](https://github.com/hobarthackerspace/hobarthackerspace.github.io). (It's also the place in which this README resides.) See below for some brief notes on working with `git` to work with this if you need refreshing on `git`.
 
 #### Previews
 If you install Ruby & Jekyll on your local machine, you can review site changes before committing to your working copy (let alone pushing up to GitHub) by executing the command `bundle exec jekyll serve`. This will present you with a view of the site at [`http://localhost:4000`](http://localhost:4000).
@@ -78,13 +78,13 @@ Login details are in the Bitwarden account under "Hackerspace Domain Name Regist
 
 ### DNS records for the website
 
-There are three specific record types relating to our website. These are constructed according to [the quite specific rules from Github Docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) about domain name redirection. 
+There are three specific record types relating to our website. These are constructed according to [the quite specific rules from GitHub Docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) about domain name redirection. 
 
 In particular, that means:
 
 - We have a `CNAME` record for 'www.hobarthackerspace.org.au' which points to `hobarthackerspace.github.io`;  
-- We have four `A` records which point to IPv4 addresses of Github Pages (185.199.108.153, 185.199.109.153, 185.199.110.153 & 185.199.111.153); and  
-- We have four `AAAA` records which point to IPv6 addresses of Github Pages (2606:50c0:8000::153, 2606:50c0:8001::153, 2606:50c0:8002::153 & 2606:50c0:8003::153).  
+- We have four `A` records which point to IPv4 addresses of GitHub Pages (185.199.108.153, 185.199.109.153, 185.199.110.153 & 185.199.111.153); and  
+- We have four `AAAA` records which point to IPv6 addresses of GitHub Pages (2606:50c0:8000::153, 2606:50c0:8001::153, 2606:50c0:8002::153 & 2606:50c0:8003::153).  
 
 ## Add-on tools
 
