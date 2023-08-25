@@ -30,6 +30,8 @@ The repository exists under a [Github Free for Organizations](https://docs.githu
 Essentially that means that we get it for free, subject to all content being publicly available. 
 The account login ID is 'hobarthackerspace' with a registered email address of 'github@hobarthackerspace.org.au'. For the password, see our [Bitwarden](https://vault.bitwarden.com/) repository.
 
+Email addressed to the `github@hobarthackerspace.org.au` address is sent to a small set of members - those who have been updating the site. If you'd like to be added to that group, just ask Brian, Leo or Shane.
+
 ## Site maintenance
 
 ### Software platform
