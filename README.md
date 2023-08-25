@@ -63,6 +63,26 @@ To keep things maintainable with a number of us maintaining the site, keep the "
 to mirror the site structure. (So, if the URL your page is `/example/content/`, call the page file `content.md` 
 and place it in the directory `_page/example/`, creating that directory if necessary.)
 
+
+## Working with `git` on the site
+
+The "live" version of the website is the set of files hosted on GitHub pages within the branch named "main". The process of pushing "main" from a remote copy to GitHub triggers an inbuilt GitHub workflow to generate and publish the appropriate pages.
+
+### Working copy
+You can get a working copy of the site by cloning the [repository](https://github.com/hobarthackerspace/hobarthackerspace.github.io)  
+
+Create your own branch to make changes to that working copy (see above about using Ruby & Jekyll for previews). It's convenient for all of us if we each call our branch by our name.
+
+### Publishing
+When you have some changes to publish, commit them to your branch 
+  and then merge that branch back into the "main" branch. 
+  ("git checkout main" followed by "git merge <yourbranchname>" will do that.)
+
+Then push your merged copy up to GitHub with "git push". That will trigger re-publishing the site (it takes about 30 seconds to a few minutes).
+
+Finally, don't forget to checkout your branch again before you make any more local changes.
+
+
 ## Domain Name
 ### Domain name registration and DNS record hosting.
 
