@@ -1,5 +1,5 @@
 ---
-# The following text specifies document properties used when converting to PDF via pandoc (use: pandoc -s -o README.pdf README.md )
+# The following text specifies document properties used when converting to PDF via pandoc (use: pandoc -s --variable colorlinks=true --variable urlcolor="teal" -o README.pdf README.md )
 # This is a YAML metadata block. For details of metadata blocks and variables see:
 #    Metadata blocks: https://pandoc.org/MANUAL.html#extension-yaml_metadata_block
 #    Variables: https://pandoc.org/MANUAL.html#variables
