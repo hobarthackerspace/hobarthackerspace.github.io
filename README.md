@@ -66,15 +66,20 @@ and place it in the directory `_page/example/`, creating that directory if neces
 ## Domain Name
 ### Domain name registration and DNS record hosting.
 
-Our `hobarthackerspace.org.au` domain is registered through Shane Dalgleish's NISS company.  
+Our [`hobarthackerspace.org.au`](https://hobarthackerspace.org.au) domain is registered through Shane Dalgleish's NISS company.  
 There are two aspects - registration and domain record hosting.
 
-- Registration is done via `https://niss.partnerconsole.net` under the name of "The Committee" and with emails sent to the [committee address](mailto:committee@hobarthackerspace.org.au). 
-Login details are in the Bitwarden account under "Hackerspace Domain Name Registration NISS" 
+- Registration is done via [`niss.partnerconsole.net`](https://niss.partnerconsole.net) 
+  under the name of "The Committee" and with emails sent to 
+  the [committee address](mailto:committee@hobarthackerspace.org.au). 
+  Login details are in the Bitwarden account under "Hackerspace Domain Name Registration NISS" 
 
-- Domain records hosting is accessed via `https://hosting.niss.net.au:8443`. Once again the login details are held in the Bitwarden account under "Hackerspace Hosting & DNS".
+- Domain records hosting is accessed via [`https://hosting.niss.net.au:8443`](https://hosting.niss.net.au:8443). 
+  Once again the login details are held in the Bitwarden account under "Hackerspace Hosting & DNS".
 
-*Note re Bitwarden*: Our shared Bitwarden password store is at `vault.bitwarden.com` under the account "bitwarden@hobarthackerspace.org.au".
+*Note re Bitwarden*: Our shared Bitwarden password store is at 
+  [`vault.bitwarden.com`](https://vault.bitwarden.com) 
+  under the account "bitwarden@hobarthackerspace.org.au".
 
 ### DNS records for the website
 
