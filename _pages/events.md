@@ -41,6 +41,8 @@ work on projects, learn some robotics or just have a general chat.
 
 {% include carousel.html height="70" unit="%" duration="5" number="1" %}
 
+   And <a href="https://www.youtube.com/shorts/AI1Ly1uvecw"  target="_blank">here's a video</a> of some of the activities, thanks to Gryff.
+
 ### Lift Off
   - Run by the <a href="https://www.tmag.tas.gov.au/"  target="_blank">Tasmanian Museum & Art Gallery (TMAG)</a> during October school holidays, <a href="https://www.tmag.tas.gov.au/learning_and_discovery/about_learning_and_discovery/childrens_festival"  target="_blank">Lift Off</a> is "Tasmania’s only dedicated annual cultural festival for children and young people". It's a broad-spectrum arts/cultural/science/tech event allowing "young people and children to explore new ideas and experiences through hands-on activities and inspiring presentations".
   
