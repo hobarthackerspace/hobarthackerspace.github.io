@@ -25,7 +25,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache", "~> 0.2"
   gem "jekyll-seo-tag"
 #  gem "jekyll-ical-tag"
-#  gem "algolia", "~> 2.3" 
+#  gem "algolia", "~> 2.3"
   gem "jekyll-algolia"
 end
 
