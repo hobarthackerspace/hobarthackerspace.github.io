@@ -30,12 +30,6 @@ And of course lots of tables set up for your computers (or use the ones that we 
 
 We even have our own [Amateur Radio station](/facilities/radio-station/)!
 
-## Resource Calendar
-
-[You can check to see whether particular rooms or resources are booked by clicking here](https://outlook.office365.com/owa/calendar/8d7988fbac0b42b9b5b901717fb74780@hobarthackerspace.org.au/5da9083ac99649048fa75b9be03307ed2801996037720237890/calendar.html) 
-
-If you wish to book a resource, contact [a Committee member](https://hobarthackerspace.org.au/about/#committee-202223) or send the Committee a note via [the Contact page](https://hobarthackerspace.org.au/contact/).
-
 ## Floor plan and room names
 Who needs boring utiitarian rooms names? Our spaces are named after inspiring people. 
 
