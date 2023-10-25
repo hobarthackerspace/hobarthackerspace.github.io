@@ -29,7 +29,9 @@ The [Beambox Guide](https://support.flux3dp.com/hc/en-us/categories/360000121176
 
 ## Suitable materials
 
-Some suitable materials for cutting with the Laser Cutter are:
+Some suitable materials for cutting with the Laser Cutter are listed below. If it is not on this list,
+or you are not positive what material you have, ask someone. The cutter can be damaged from the fumes
+from certain materials, and some catch fire!. Some just don't cut very well.
 
 - Timber based
     - MDF
@@ -41,7 +43,12 @@ Some suitable materials for cutting with the Laser Cutter are:
     - Acrylic (Perspex) sheet
         - clear and coloured
         - up to 6mm in thickness
-            - Thicker material can be cut using multiple passes and adjusting the focus between passes
+        - Thicker material can be cut using multiple passes and adjusting the focus between passes.
+- Leather
+    - Cuts and engraves very well, but smells terrible!
+    - Make sure you have genuine leather, lots of materials look like leather but are really PVC.
+- Nylon
+    Nylon material and webbing can be cut very easily, with the advantage that the material does not fray.
 
 A much wider range of materials are suitable for etching, including:
 
@@ -58,8 +65,13 @@ Certain plastics (eg PVC, ABS) are **not safe** for laser engraving or cutting b
 
 ## Recommended settings
 
-(something here from Alistair and/or David Morton)
-
+The Beam Studio app has a dropdown list of recommended settings for 
+various materials. These are a good starting point. There are also 
+some example files under menu File->Examples that have a variety of 
+settings to try out in a single file.  
+When you want to try a new material, do a trial cut in a corner or
+on a scrap. Do not attempt your entire design. You will probably 
+waste material and time.
 
 ## Safety Warnings
 
@@ -75,9 +87,23 @@ Certain plastics (eg PVC, ABS) are **not safe** for laser engraving or cutting b
 -   All power points to this machine must be turned OFF when finished.
 ![Beambox-safety](/assets/images/pages/laser-cutter/Beambox-safety.jpg)
 
-
 ### Fire safety
 
 We are fortunate to have several fire fighters as members of the
 Hackerspace, so all users are given detailed fire safety training prior
 to being allowed to operate this machine without a fire-trained member present.
+present.
+
+### Network Settings
+
+If you cannot connect from Beam Studio then check that the laser cutter is 
+visible on the network. The cutter has a static IP address assigned to it, this
+is on a label on the lid, last time I looked it was 192.168.2.132.  
+Try pinging it, if no response then there are a few things to check:
+
+* Is the network cable plugged in? Rear or machine in RH side.
+* Is the network router turned on (black wallwart power supply in plugboard)?
+* Has someone fiddled with the network settings?
+
+Once you can ping the cutter then all should be good, and you should be 
+able to connect with Beam Studio.
