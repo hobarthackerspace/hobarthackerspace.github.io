@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Facilities"
     url: /facilities/
+  - title: "Events"
+    url: /events/
   - title: "Safety"
     url: /safety/
   - title: Membership
@@ -27,6 +29,8 @@ side:
   - title: "Events"
     url: /events/
     children:
+      - title: "Calendar"
+        url: /events/calendar/
       - title: "Open Night"
         url: /events/open-night/
       - title: "Workshops"

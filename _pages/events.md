@@ -27,7 +27,7 @@ carousels:
 Many Hackerspace members enjoy working quietly in the Space when there\'s no-one else around,
 but in addition, we involve ourselves in many events, both in the Space and as part of bigger public events.
 
-## Our Calendar of Events and Resource Calendar
+## Calendar of Events
 
 <iframe src="https://outlook.office365.com/calendar/published/8d7988fbac0b42b9b5b901717fb74780@hobarthackerspace.org.au/5da9083ac99649048fa75b9be03307ed2801996037720237890/calendar.html" height="500" width="750" title="Calendar" name="cal_iframe"></iframe> 
 
