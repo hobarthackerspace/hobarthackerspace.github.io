@@ -33,6 +33,8 @@ side:
         url: /events/calendar/
       - title: "Open Night"
         url: /events/open-night/
+      - title: "Projects Night"
+        url: /events/projects-night/
       - title: "Workshops"
         url: /events/workshops/
   - title: "Facilities"

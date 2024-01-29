@@ -29,17 +29,25 @@ but in addition, we involve ourselves in many events, both in the Space and as p
 
 ## Calendar of Events
 
-<iframe src="https://outlook.office365.com/calendar/published/8d7988fbac0b42b9b5b901717fb74780@hobarthackerspace.org.au/5da9083ac99649048fa75b9be03307ed2801996037720237890/calendar.html" height="500" width="750" title="Calendar" name="cal_iframe"></iframe> 
+<iframe src="https://outlook.office365.com/calendar/published/8d7988fbac0b42b9b5b901717fb74780@hobarthackerspace.org.au/5da9083ac99649048fa75b9be03307ed2801996037720237890/calendar.html" height="500" width="750" title="Calendar" name="cal_iframe"></iframe>
 
 <p><a href = "https://outlook.office365.com/calendar/published/8d7988fbac0b42b9b5b901717fb74780@hobarthackerspace.org.au/5da9083ac99649048fa75b9be03307ed2801996037720237890/calendar.html" target = "cal_iframe">Resources Calendar</a>&nbsp;&nbsp;<a href = "https://outlook.office365.com/calendar/published/8d7988fbac0b42b9b5b901717fb74780@hobarthackerspace.org.au/b648656cb5814640ac6c5dc9430601ec14074330722555189232/calendar.html" target = "cal_iframe">Events Calendar</a></p>
 
 If you wish to book a resource, contact [a Committee member](https://hobarthackerspace.org.au/about/#committee-202223) or send the Committee a note via [the Contact page](https://hobarthackerspace.org.au/contact/).
 
 ## Within the Space
-- We have an [Open Night](/events/open-night/) every Thursday from 7pm until late.  This is a
+### Open Nights
+We have an [Open Night](/events/open-night/) every Thursday from 7pm until late.  This is a
 perfect opportunity to come along to the space and meet the members,
 work on projects, learn some robotics or just have a general chat.
-- We run [workshops](/events/workshops/) for both members and guests.
+
+### Project Nights
+Every Tuesday evening is a members-only [Projects Night](/events/projects-night/).
+This is an opportunity for members to work on their own projects while others
+are around, giving a chance to ask for help or share what we're doing.
+
+### We run specialised [workshops](/events/workshops/) at random intervals for both members and guests.
+Keep an eye on our [members-only Facebook group](https://hobarthackerspace.us21.list-manage.com/track/click?u=8a37739687e69ea2baaeb62e1&id=5a26478467&e=bca8dbc60d)
 
 ## Public Events
 ### Festival of Bright Ideas
