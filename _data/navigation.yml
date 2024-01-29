@@ -17,6 +17,13 @@ side:
     url: /
   - title: "About us"
     url: /about/
+    children:
+      - title: "Facebook"
+        url: "https://www.facebook.com/hobarthackerspace"
+      - title: "Members' Facebook"
+        url: "https://www.facebook.com/groups/HobartHackerspaceMembers"
+      - title: "Instagram"
+        url: "https://www.instagram.com/hobarthackerspace/"
   - title: "Membership"
     url: /membership/
     children:
