@@ -100,8 +100,8 @@ There are two aspects - registration and domain record hosting.
   Once again the login details are held in the Bitwarden account under "Hackerspace Hosting & DNS".
 
 *Note re Bitwarden*: Our shared Bitwarden password store is at
-  [`vault.bitwarden.com`](https://vault.bitwarden.com)
-  under the account "bitwarden@hobarthackerspace.org.au".
+  [`vault.bitwarden.com`](https://vault.bitwarden.com). 
+  The access credentials are available to committee members.
 
 ### DNS records for the website
 
