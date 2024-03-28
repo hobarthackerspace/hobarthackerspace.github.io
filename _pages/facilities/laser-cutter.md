@@ -8,7 +8,7 @@ toc_label: "Page contents"
 
 ---
 
-# Laser Cutter/Engraver
+<!-- # Laser Cutter/Engraver (heading will be provided by Jekyll) -->
 
 Our laser cutter is a <a href="https://flux3dp.com/beambox/" target="_blank">Beambox Pro</a>
 laser capable of cutting perspex, glass, wood and MDF, as well as etching and engraving on many surfaces. 
