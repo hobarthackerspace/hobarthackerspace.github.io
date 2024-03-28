@@ -10,17 +10,20 @@ toc_label: "Page contents"
 
 # Laser Cutter/Engraver
 
-Our laser cutter is a <a href="https://flux3dp.com/beambox/" target="_blank">Beambox Pro</a> 
+Our laser cutter is a <a href="https://flux3dp.com/beambox/" target="_blank">Beambox Pro</a>
 laser capable of cutting perspex, glass, wood and MDF, as well as etching and engraving on many surfaces. 
+
+**Please note - this is a tool for members to use on their personal projects. We are not a laser cutting service.**
+Members who wish to use the laser cutter for small-scale jobs for others may do so after consultation with the committee and a contribution towards wear & tear on the laser.
 
 It has a bed size of 600 x 375 mm and a cutting thickness of 0 - 10 mm (varies by material)​.
 
-![Beambox](/assets/images/pages/laser-cutter/Beambox.jpg)  
+![Beambox](/assets/images/pages/laser-cutter/Beambox.jpg)
 The Beambox Pro
 
-The software driving it (<a href="https://flux3dp.com/beam-studio/" target="_blank">Beam 
-Studio</a>) works from images in many formats (SVG / PNG / JPG / DXF / PDF / AI), 
-with different layers representing different laser power settings and feed rates. 
+The software driving it (<a href="https://flux3dp.com/beam-studio/" target="_blank">Beam
+Studio</a>) works from images in many formats (SVG / PNG / JPG / DXF / PDF / AI),
+with different layers representing different laser power settings and feed rates.
 These can be vector or raster images.
 
 The [Beambox Guide](https://support.flux3dp.com/hc/en-us/categories/360000121176-Beambox-Guide) provides lots of useful information.
@@ -65,12 +68,12 @@ Certain plastics (eg PVC, ABS) are **not safe** for laser engraving or cutting b
 
 ## Recommended settings
 
-The Beam Studio app has a dropdown list of recommended settings for 
-various materials. These are a good starting point. There are also 
-some example files under menu File->Examples that have a variety of 
-settings to try out in a single file.  
+The Beam Studio app has a dropdown list of recommended settings for
+various materials. These are a good starting point. There are also
+some example files under menu File->Examples that have a variety of
+settings to try out in a single file.
 When you want to try a new material, do a trial cut in a corner or
-on a scrap. Do not attempt your entire design. You will probably 
+on a scrap. Do not attempt your entire design. You will probably
 waste material and time.
 
 ## Safety Warnings
@@ -96,14 +99,14 @@ present.
 
 ### Network Settings
 
-If you cannot connect from Beam Studio then check that the laser cutter is 
+If you cannot connect from Beam Studio then check that the laser cutter is
 visible on the network. The cutter has a static IP address assigned to it, this
-is on a label on the lid, last time I looked it was 192.168.2.132.  
+is on a label on the lid, last time I looked it was 192.168.2.132.
 Try pinging it, if no response then there are a few things to check:
 
 * Is the network cable plugged in? Rear or machine in RH side.
 * Is the network router turned on (black wallwart power supply in plugboard)?
 * Has someone fiddled with the network settings?
 
-Once you can ping the cutter then all should be good, and you should be 
+Once you can ping the cutter then all should be good, and you should be
 able to connect with Beam Studio.
