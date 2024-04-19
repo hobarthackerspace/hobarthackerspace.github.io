@@ -26,7 +26,7 @@ For making, we have: [several 3D printers](/facilities/3d-printers/), [two CNC m
 
 For electronics we have an [electronics workbench plus test & rework equipment](/facilities/electronics-lab/).
 
-And of course lots of tables set up for your computers (or use the ones that we have).
+And of course lots of tables set up so that you can bring your computers (or use the ones that we have).
 
 We even have our own [Amateur Radio station](/facilities/radio-station/)!
 

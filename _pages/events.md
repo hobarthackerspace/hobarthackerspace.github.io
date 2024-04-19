@@ -60,6 +60,31 @@ Keep an eye on our [members-only Facebook group](https://hobarthackerspace.us21.
 
    And <a href="https://www.youtube.com/shorts/AI1Ly1uvecw"  target="_blank">here's a video</a> of some of the activities, thanks to Gryff.
 
+### EdCAT 2024 display at TasTAFE
+- As part of the EdCAT 2024 summit held at TasTAFE on April 18, Hobart
+Hackerspace contributed to a display of historical computing in the
+TAFE library.
+A number of hackers from the space lent items from their own
+collections for display curated by Muria, who is an HHS member and a staff
+member at TasTAFE.
+
+- In the picture, there are a number of items visible. 
+  - circuit boards, one using discrete components (circa 1962), and one using  TTL chips (circa 1972). 
+  - a length of Jacquard loom punch cards &mdash; the earliest form of punched card/paper information storage 
+  - a length of paper tape &mdash; information storage used by the kinds of computers that were built using the circuit boards shown
+  - a magnetic core memory unit, with the cores visible for very keen-eyed visitors.
+  - a stack of disk storage platters from the 1970's, storing about 80MB (1/100<sup>th</sup> of a small USB stick)
+  - several personal computers dating from 1980's to current times.
+  - the large panel to the left of the display cabinet is an analog
+    computer of the kind that was previously used for engineering design.
+
+![EdCAT 2024 display](/assets/images/pages/events/TasTAFE-EdCAT_2024-IMG_0935.webp)  
+
+- Thank you, Muria,  for your skills to curate this display, 
+  and thanks to Tom, Brian and Michael for providing interesting items to show.
+
+
+
 ### Bruny Island Science Day
   - <a href = "https://inspiringtas.org.au/event/bruny-island-fun-day/"  target="_blank">Bruny Island Science Fun Day</a> is a public event held annually at the <a href = "https://www.facebook.com/brunyquarantinestation/"  target="_blank">Bruny Island Quarantine Station</a>. It's a day for kids and families to explore the fun to be had in science, while exploring the old quarantine site on Tasmania\'s Bruny Island.
 
