@@ -78,7 +78,7 @@ member at TasTAFE.
   - the large panel to the left of the display cabinet is an analog
     computer of the kind that was previously used for engineering design.
 
-![EdCAT 2024 display](/assets/images/pages/events/TasTAFE-EdCAT_2024-IMG_0935.webp)  
+<a href="/assets/images/pages/events/TasTAFE-EdCAT_2024-IMG_0935_lg.webp"><img src="/assets/images/pages/events/TasTAFE-EdCAT_2024-IMG_0935.webp" alt="EdCAT 2024 display"></a>  
 
 - Thank you, Muria,  for your skills to curate this display, 
   and thanks to Tom, Brian and Michael for providing interesting items to show.
