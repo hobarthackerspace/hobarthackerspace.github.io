@@ -33,20 +33,18 @@ The Hobart Hackerspace is a [registered Tasmanian not-for-profit association](ht
 
 Our activities are governed by our [Articles of Association (Constitution)](/assets/documents/Constitution-2023-as-approved.pdf). We are fundamentally a loose co-operative group, but for ethical and financial responsibility we are an incorporated association and we have a Committee to make formal decisions.
 
-### Committee 2023/24 ###
+### Committee 2024/25 ###
 
 | Position          | Person |
 | --------------- | -------- |
-| President | Shane Dalgliesh | 
+| President | Jason Hammond | 
 | Vice-president | Tom Harris |
 | Secretary | Glen Bertram | 
 | Treasurer | Brian Marriott | 
 | Public Officer | Brian Marriott | 
 | Committee members | David Craig | 
 |   | Leo Febey | 
-|   | Jason Hammond | 
-|   | Curtis Smith | 
-|   | Trent Wyllie | 
+|   | Chris Keen | 
 
 
 For more information, please contact us with the [contact form](/contact/) on this site.
