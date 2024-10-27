@@ -31,14 +31,14 @@ And of course lots of tables set up so that you can bring your computers (or use
 We even have our own [Amateur Radio station](/facilities/radio-station/)!
 
 ## Floor plan and room names
-Who needs boring utiitarian rooms names? Our spaces are named after inspiring people. 
+Who needs boring utilitarian rooms names? Our spaces are named after inspiring people. 
 
 This is a plan of our rooms. To find out what's what, check the interpretation guide below it.  
 ![2-StJohnsAve-floorplan](/assets/images/pages/facilities/floorplan.jpg)  
 
 ### The rooms:
 - **Margaret Hamilton room**
-    - Our smaller meeting and programming room. Set up for you ro plug in your laptoop (or use one of our computers from the next-door *Room of Requirement*
+    - Our smaller meeting and programming room. Set up for you to plug in your laptoop (or use one of our computers from the next-door *Room of Requirement*
       - [Margaret Hamilton](https://history.nasa.gov/alsj/a11/a11Hamilton.html) was the leader of the team that developed the flight software for NASA's Apollo missions. She was a pre-eminent designer of safe, real-time system control software.
 
 - **Bertrand Russell room**
@@ -51,7 +51,7 @@ This is a plan of our rooms. To find out what's what, check the interpretation g
 
 - **Claude Shannon room**  
     - A projects area, with the 3D printers and laser cutter.  
-      - [Claude Shannon](https://www.scientificamerican.com/article/claude-e-shannon-founder/) was the engineering genius who's ideas established modern information theory. 
+      - [Claude Shannon](https://www.scientificamerican.com/article/claude-e-shannon-founder/) was the engineering genius whose ideas established modern information theory. 
         Not only that, but he was also a quirky inventor, who was assisted (in both his inventions and is professional work) by his wife, [Betty Shannon](https://blogs.scientificamerican.com/voices/betty-shannon-unsung-mathematical-genius/). 
         Their inventions included a calculator in roman numerals and 
         the very first mechanical maze-solving mouse/robot.
