@@ -24,7 +24,7 @@ Or do you just like to chat with others passionate about technology?
 
 If so, we welcome you to try a Hobart Hackerspace Open Night.  They're on Thursday from 7:00 to 9:30 PM, where you can meet us, see the facilities and even start your projects.  (Under 18's please bring a responsible adult.) After several visits you're welcome to join us as a member.
 
-There are many benefits to [becoming a member](/membership-benefits/).
+There are many benefits to becoming a member.
 These include:
 
 1. 24 hour access to the building.
@@ -37,7 +37,7 @@ Attend our events to get to know us, or sign up with a corporate
 membership or an individual membership.
 
 Questions about Membership beyond the membership benefits listed above?
-Visit our FAQ, our community forum, attend an event, or feel free to
-contact us!
+Attend a Thursday evening open night or feel free to
+[contact us](/contact/)!
 
 
