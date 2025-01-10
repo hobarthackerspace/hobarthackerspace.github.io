@@ -42,7 +42,8 @@ Our activities are governed by our [Articles of Association (Constitution)](/ass
 | Secretary | Glen Bertram | 
 | Treasurer | Brian Marriott | 
 | Public Officer | Brian Marriott | 
-| Committee members | David Craig | 
+| Committee members | Tiffany Ashdown | 
+|   | David Craig | 
 |   | Leo Febey | 
 |   | Chris Keen | 
 
