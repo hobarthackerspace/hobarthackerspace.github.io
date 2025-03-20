@@ -100,6 +100,10 @@ agreement to these rules before your membership can be confirmed.
     agree not to discriminate against any member on the basis of age,
     gender, disability, ethnic origin, sexuality or anything else.
 
+1.  I recognise that the members of Hobart Hackerspace are proud of the 
+    diversity of the Space and I agree not to disparage the Space or 
+    otherwise bring the Space into disrepute.
+
 1.  I agree not to bring alcohol onto the premises or to consume alcohol
     on the premises. This is a requirement of our licence with the
     Government to use the space. There will be no exceptions.
