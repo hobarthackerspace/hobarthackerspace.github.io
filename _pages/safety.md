@@ -24,5 +24,4 @@ all equipment and work practices in the Hackerspace are safe.
 -   Tag and report any faulty equipment
 -   No machinery is to be left running unsupervised
 
-Please report any incidences or concerns about safety using the [contact
-form](/contact/) on this website
+Please report any incidences or concerns about safety using the incident report on this website: [PDF version](https://hobarthackerspace.org.au/assets/documents/Incident_Report_Form.pdf); [MS Word version](https://hobarthackerspace.org.au/assets/documents/Incident_Report_Form.docx)
