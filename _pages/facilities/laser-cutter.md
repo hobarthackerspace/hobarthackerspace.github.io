@@ -16,7 +16,8 @@ laser capable of cutting perspex, glass, wood and MDF, as well as etching and en
 **Please note - this is a tool for members to use on their personal projects. We are not a laser cutting service.**
 Members who wish to use the laser cutter for small-scale jobs for others may do so after consultation with the committee and a contribution towards wear & tear on the laser.
 
-It has a bed size of 600 x 375 mm and a cutting thickness of 0 - 10 mm (varies by material)​.
+It has a nominal bed size of 600 x 375 mm and a cutting thickness of 0 - 10 mm (varies by material).
+The maximum usable bed size is actually 597x373mm, while it is in fact more convenient to stay within 583x350mm, as this fits flat on the honeycomb bed.
 
 ![Beambox](/assets/images/pages/laser-cutter/Beambox.jpg)
 The Beambox Pro
