@@ -30,6 +30,8 @@ And of course lots of tables set up so that you can bring your computers (or use
 
 We even have our own [Amateur Radio station](/facilities/radio-station/)!
 
+All documentation for our tools and equipment is stored in [an in-house wiki](http://wiki.local). Note that this address is only accessible within the Space.
+
 ## Floor plan and room names
 Who needs boring utilitarian rooms names? Our spaces are named after inspiring people. 
 
