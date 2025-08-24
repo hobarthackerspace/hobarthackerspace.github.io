@@ -40,7 +40,7 @@ This is a plan of our rooms. To find out what's what, check the interpretation g
 
 ### The rooms:
 - **Margaret Hamilton room**
-    - Our smaller meeting and programming room. Set up for you to plug in your laptoop (or use one of our computers from the next-door *Room of Requirement*
+    - Our smaller meeting and programming room. Set up for you to plug in your laptop (or use one of our computers from the next-door *Room of Requirement*
       - [Margaret Hamilton](https://history.nasa.gov/alsj/a11/a11Hamilton.html) was the leader of the team that developed the flight software for NASA's Apollo missions. She was a pre-eminent designer of safe, real-time system control software.
 
 - **Bertrand Russell room**
