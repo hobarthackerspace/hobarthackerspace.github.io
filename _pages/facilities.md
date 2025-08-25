@@ -22,7 +22,7 @@ Members can use the space at any time (24hr access), but we ask you to respect t
 ## Our tools and equipment
 We have some cool gear &#x1F60E;. 
 
-For making, we have: [several 3D printers](/facilities/3d-printers/), [two CNC machines](/facilities/cnc-routers/), [a laser cutter/engraver](/facilities/laser-cutter/), [plasma cutting & welding gear](/facilities/metalworking/) and all the usual smaller tools.
+For making, we have: [several 3D printers](/facilities/3d-printers/), [a CNC machine](/facilities/cnc-router/), [a laser cutter/engraver](/facilities/laser-cutter/), [plasma cutting & welding gear](/facilities/metalworking/) and all the usual smaller tools.
 
 For electronics we have an [electronics workbench plus test & rework equipment](/facilities/electronics-lab/).
 

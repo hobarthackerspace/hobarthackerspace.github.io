@@ -1,16 +1,19 @@
 ---
-permalink: /facilities/cnc-routers/
-title: "CNC Routers"
+permalink: /facilities/cnc-router/
+title: "CNC Router"
 author_profile: false
 layout: single
 ---
 
 # CNC Router (Flat Bed)
 
-This machine is a beauty!  A simple workhorse with a powerful three
-phase spindle motor, this machine is as happy cutting SMD circuit boards
-as it is cutting boxes out of aluminium.  With software to drive this
-under Linux or Windows, it is quite easy to learn how to operate.
+## I2R A Series A23 CNC Router
+The machine has a 600x900mm bed and includes a manufacturer-supplied stand and a dust extractor.
+
+## Documentation
+- Full machine documentation is provided [on the manufacturer's website](https://i2rcnc.com/pages/help-center).
+- [Technical specifications](/assets/documents/CNC_tech_specs.pdf)
+
 
 GCode for this machine can be generated from CAD systems, PCB Design
 software and from vector paths in Inkscape.
