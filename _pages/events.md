@@ -105,7 +105,11 @@ member at TasTAFE.
 {% include carousel.html height="70" unit="%" duration="6" number="2" %}
 
 ## General Meetings
-### Annual General Meeting 2023
-  - Our Annual General Meeting for 2023 was held on 15th at the Space. [The minutes of the meeting are here](/assets/documents/AGM2023/AGM-minutes-2023.pdf).
+### Annual General Meeting 2025
+  - Our Annual General Meeting for 2025 was held on August 15<sup>th</sup> at the Space. 
+  - Meeting documents:
+    - [Draft minutes](/assets/documents/AGM2025/AGM-minutes-2025.pdf)
+    - [President's report](/assets/documents/AGM2025/Presidents-report.pdf)
+    - [Finances](/assets/documents/AGM2025/Financial-report.pdf)
 
 
