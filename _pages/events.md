@@ -10,6 +10,10 @@ carousels:
     - image: /assets/images/pages/events/FOBI-2023-Tom-Sara-Leo.webp
     - image: /assets/images/pages/events/FOBI-2023-Tom-vortex-cannon.webp
     - image: /assets/images/pages/events/FOBI-2023-Robot-soccer-field.webp
+    - image: /assets/images/pages/events/FOBI-2025-inspiring-boots.webp
+    - image: /assets/images/pages/events/FOBI-2025-3D-print-objects.webp
+    - image: /assets/images/pages/events/FOBI-2025-hardhats.webp
+    - image: /assets/images/pages/events/FOBI-2025-Bob-Mark-Glen-crowd.webp
     - image: /assets/images/pages/events/smoke-cannon-rings.webp
   - images:
     - image: /assets/images/pages/events/microscope-workshop.jpg
@@ -54,7 +58,7 @@ Keep an eye on our [members-only Facebook group](https://hobarthackerspace.us21.
   - Hobart has an annual science-based event called the <a href="https://festivalofbrightideas.com.au/"
    target="_blank">Festival of Bright Ideas</a> (FOBI). It\'s focussed on kids finding the joys of
    Science & Technology and is run as part of National Science Week each year.
-   Hobart  Hackerspace has been a regular participant for a number of years now and were there again in 2023. Photos below show some of the fun!
+   Hobart  Hackerspace has been a regular participant for a number of years now. Photos below show some of the fun across the years!
 
 {% include carousel.html height="70" unit="%" duration="5" number="1" %}
 
