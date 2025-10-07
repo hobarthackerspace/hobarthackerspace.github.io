@@ -26,6 +26,10 @@ carousels:
   - images:
     - image: /assets/images/pages/events/Bruny-Science-Day-2023-PA083318.webp
     - image: /assets/images/pages/events/Bruny-Science-Day-2023-PA083314.webp
+    - image: /assets/images/pages/events/Bruny-Science-Day-2025-Hacky-on-door-duty.webp
+    - image: /assets/images/pages/events/Bruny-Science-Day-2025-Bottomless-mirror.webp
+    - image: /assets/images/pages/events/Bruny-Science-Day-2025-Tech-in-a-tin-shed.webp
+    - image: /assets/images/pages/events/Bruny-Science-Day-2025-Institute-of-Backyard-Studies-Bruny-Island-Campus.webp
 
 ---
 Many Hackerspace members enjoy working quietly in the Space when there\'s no-one else around,
@@ -92,9 +96,11 @@ member at TasTAFE.
 ### Bruny Island Science Day
   - <a href = "https://inspiringtas.org.au/event/bruny-island-fun-day/"  target="_blank">Bruny Island Science Fun Day</a> is a public event held annually at the <a href = "https://www.facebook.com/brunyquarantinestation/"  target="_blank">Bruny Island Quarantine Station</a>. It's a day for kids and families to explore the fun to be had in science, while exploring the old quarantine site on Tasmania\'s Bruny Island.
 
-    Members of the Space attended for the first time in 2023, and both they and the families that came along enjoyed themselves immensely.
+    Members of the Space attended for the first time in 2023, and both they and the families that came along enjoyed themselves immensely. We were there again in 2025 with our tech in a tin shed.
 
 {% include carousel.html height="70" unit="%" duration="8" number="4" %}
+
+    Photos courtesy of Sara (2025) and Brian (2023).
 
 ### Lift Off
   - Run by the <a href="https://www.tmag.tas.gov.au/"  target="_blank">Tasmanian Museum & Art Gallery (TMAG)</a> during October school holidays, <a href="https://www.tmag.tas.gov.au/learning_and_discovery/about_learning_and_discovery/childrens_festival"  target="_blank">Lift Off</a> is "Tasmania’s only dedicated annual cultural festival for children and young people". It's a broad-spectrum arts/cultural/science/tech event allowing "young people and children to explore new ideas and experiences through hands-on activities and inspiring presentations".
