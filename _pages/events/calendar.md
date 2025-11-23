@@ -12,6 +12,8 @@ If an activity involves a group of us, whether or not it's at the Space, we put 
 
 If an activity at the Space will need exclusive use of a room or a major tool, we put it in the *Resources* calendar.
 
+### Stop Press: Christmas BBQ Thursday 18<sup>Th</sup> December at 6:00pm at the Space!
+
 ## Resources Calendar
 
 <iframe src="https://outlook.office365.com/calendar/published/8d7988fbac0b42b9b5b901717fb74780@hobarthackerspace.org.au/5da9083ac99649048fa75b9be03307ed2801996037720237890/calendar.html" height="500" width="750" title="Resources Calendar" name="res_iframe"></iframe> 
