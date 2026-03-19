@@ -24,7 +24,9 @@ Currently, our licensed members are:
 
 | Member          | Callsign |
 | --------------- | -------- |
-| Ken Sulman | [VK7DY](https://www.qrz.com/db/VK7DY) | 
+| David Craig | VK7AAG |
+| Leo Febey |  |
+| Jason Hammond |  |
 | Brian Marriott | [VK7BM](https://www.qrz.com/db/VK7BM) |
 
-Several other members are in the process of obtaining their Foundation Amateur Radio licence, in conjunction with the [Radio and Electronics Association of Southern Tasmania Inc](https://www.reast.asn.au/).
+Other members are in the process of obtaining their Foundation Amateur Radio licence, in conjunction with the [Radio and Electronics Association of Southern Tasmania Inc](https://www.reast.asn.au/).
