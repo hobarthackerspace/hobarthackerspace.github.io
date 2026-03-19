@@ -25,7 +25,7 @@ Currently, our licensed members are:
 | Member          | Callsign |
 | --------------- | -------- |
 | David Craig | VK7AAG |
-| Leo Febey |  |
+| Leo Febey | VK7LEO |
 | Jason Hammond |  |
 | Brian Marriott | [VK7BM](https://www.qrz.com/db/VK7BM) |
 
