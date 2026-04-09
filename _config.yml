@@ -81,6 +81,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 #  - jekyll-ical-tag
 
 algolia:
