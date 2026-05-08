@@ -21,7 +21,7 @@ funding campaign which was designed to not only raise money, but to also
 gauge the interest in opening a dedicated community workshop dedicated
 to technology and art. After many months of searching, a license was
 signed with the Tasmanian Department of Health and Human Services to
-utilise one of the heritage guardhouses at 2 St Johns Ave, New Town.
+utilise one of the heritage guardhouses at [2 St Johns Ave, New Town](https://www.google.com/maps/place/2+St+Johns+Ave,+New+Town+TAS+7008/@-42.853156,147.297503,17z/).
 
 Visitors are welcome on Thursday nights from 7pm, however, you will be
 asked to join after a few visits as we rely on membership fees for a 
