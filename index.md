@@ -10,8 +10,12 @@ sidebar:
   nav: "side"
 ---
 
-## Notice of Temporary Closure
-Due to unforeseen circumstances, the Committee of Hobart Hackerspace Inc. has decided that it is necessary to close the Space until further notice. We hope that the situation will be resolved soon. Thank you for your understanding. We will inform members via the website [hobarthackerspace.org.au](https://hobarthackerspace.org.au) as soon as possible.
+## We’re now open to members
+**After the recent temporary closure, we’re now open again!**
+
+For the moment, we’re only open to current financial members. Watch this space for more news about wen we are also open to visitors.
+
+*20-May-2026*
 
 *Brian Marriott<br>
 Public Officer<br>
