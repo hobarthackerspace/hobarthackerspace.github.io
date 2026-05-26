@@ -28,5 +28,6 @@ Currently, our licensed members are:
 | Leo Febey | VK7LEO |
 | Jason Hammond |  |
 | Brian Marriott | [VK7BM](https://www.qrz.com/db/VK7BM) |
+| Ruben Sutton | VK7SUT |
 
 Other members are in the process of obtaining their Foundation Amateur Radio licence, in conjunction with the [Radio and Electronics Association of Southern Tasmania Inc](https://www.reast.asn.au/).
