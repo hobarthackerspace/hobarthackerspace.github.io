@@ -10,12 +10,14 @@ sidebar:
   nav: "side"
 ---
 
-## We’re now open to members
-**After the recent temporary closure, we’re now open again!**
+## We’re now open again to members
+**After the recent temporary closure, we’re now open again, but rules are a bit different.**
 
-For the moment, we’re only open to current financial members. Watch this space for more news about when we are also open to visitors.
+We’re open to current financial members and their sponsored guests. Sponsoring means that the sponsor vouches for and takes responsibility for the guest's activities. 
 
-*20-May-2026*
+On Thursday evenings between 7:00pm & 9:00pm, visitors are also welcome. But visitors also must be signed in by a member.
+
+*11-June-2026*
 
 *Brian Marriott<br>
 Public Officer<br>
