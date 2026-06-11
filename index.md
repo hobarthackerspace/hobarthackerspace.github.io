@@ -10,7 +10,7 @@ sidebar:
   nav: "side"
 ---
 
-## We’re now open again to members
+## We’re now open again to members and their guests
 **After the recent temporary closure, we’re now open again, but rules are a bit different.**
 
 We’re open to current financial members and their sponsored guests. Sponsoring means that the sponsor vouches for and takes responsibility for the guest's activities. 
