@@ -15,9 +15,9 @@ sidebar:
 
 We’re open to current financial members and their sponsored guests. Sponsoring means that the sponsor vouches for and takes responsibility for the guest's activities. 
 
-On Thursday evenings between 7:00pm & 9:00pm, visitors are also welcome. The doors are not open; visitors should ask to be signed in by a member who will then look after you.
+On Thursday evenings between 7:00pm & 9:00pm, visitors are also welcome. A member can open the door, sign you in and look after you during your visit.
 
-*11-June-2026*
+*30-June-2026*
 
 *Brian Marriott<br>
 Public Officer<br>
