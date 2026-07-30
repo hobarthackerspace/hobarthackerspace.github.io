@@ -21,7 +21,7 @@ On Thursday evenings between 7:00pm & 9:00pm, visitors are also welcome. A membe
 
 *Brian Marriott<br>
 Public Officer<br>
-brian@hobarthackerspace.org.au*
+brian.marriott@hobarthackerspace.org.au*
 
 ## Welcome to Hobart Hackerspace. Our motto is *Make, Learn, Inspire.*
 
