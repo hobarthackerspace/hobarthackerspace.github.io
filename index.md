@@ -10,18 +10,6 @@ sidebar:
   nav: "side"
 ---
 
-## We’re now open again to members and their guests
-**After the recent temporary closure, we’re now open again, but rules are a bit different.**
-
-We’re open to current financial members and their sponsored guests. Sponsoring means that the sponsor vouches for and takes responsibility for the guest's activities. 
-
-On Thursday evenings between 7:00pm & 9:00pm, visitors are also welcome. A member can open the door, sign you in and look after you during your visit.
-
-*30-June-2026*
-
-*Brian Marriott<br>
-Public Officer*
-
 ## Welcome to Hobart Hackerspace. Our motto is *Make, Learn, Inspire.*
 
 Are you interested in, or need help, creating with this technology:
@@ -34,7 +22,7 @@ Are you interested in, or need help, creating with this technology:
 
 Or do you just like to chat with others passionate about technology?
 
-If so, we welcome you to try a Hobart Hackerspace Open Night.  They're on Thursday from 7:00 to 9:30 PM, where you can meet us, see the facilities and even start your projects.  (Under 18's please bring a responsible adult.) After several visits you're welcome to join us as a member.
+If so, we welcome you to try a Hobart Hackerspace Visitors Night.  They're on Thursday from 7:00 to 9:30 PM, where you can meet us, see the facilities and even start your projects.  (Under 18's please bring a responsible adult.) After several visits you're welcome to join us as a member.
 
 There are many benefits to becoming a member.
 These include:

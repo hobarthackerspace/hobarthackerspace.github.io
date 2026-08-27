@@ -12,10 +12,10 @@ carousels:
 ---
 {% include carousel.html height="70" unit="%" duration="4" number="1" %}
 
-- We have an Open Night on Thursdays each week, which usually becomes a social event
-  - We're open from 7:00pm onwards
+- We have a Visitors Night on Thursdays each week, which usually becomes a social event
+  - We're open from 7:00pm until 9:00pm
   - Like-minded folks chat and work on an amazing range of topics and projects
-  - If the weather is at all good we'll have a BBQ
+  - If the weather is at all good we might have a BBQ
   - And there's lots of sweeties in the honesty shop
 
 All Welcome.
