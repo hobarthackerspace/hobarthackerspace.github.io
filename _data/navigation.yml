@@ -28,7 +28,7 @@ side:
     url: /membership/
     children:
       - title: "Terms of use"
-        url: "https://publish.obsidian.md/hhs-wiki/Members+Terms+of+Use/terms_of_use/"
+        url: /terms_of_use/
       - title: "New member registration"
         url: "https://hobarthackerspace.tidyhq.com/public/membership_levels"
       - title: "Membership renewal"
