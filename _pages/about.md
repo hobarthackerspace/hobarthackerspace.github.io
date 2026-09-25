@@ -37,15 +37,16 @@ Our activities are governed by our [Articles of Association (Constitution)](/ass
 
 | Position          | Person |
 | --------------- | -------- |
-| President | Jason Hammond | 
+| President  | Tiffany Ashdown |
 | Vice-president | Tom Harris |
 | Secretary | Glen Bertram | 
-| Treasurer | Brian Marriott | 
-| Public Officer | Brian Marriott | 
-| Committee members | Tiffany Ashdown | 
-|   | David Craig | 
+| Treasurer | Mark Pearson | 
+| Public Officer | Chris Keen | 
+| Committee members  | David Craig | 
 |   | Leo Febey | 
+|   | Jason Hammond |
 |   | Chris Keen | 
+|   | Zoe Sharman | 
 
 
 For more information, please contact us with the [contact form](/contact/) on this site.
