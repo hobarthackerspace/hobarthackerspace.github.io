@@ -12,7 +12,6 @@ If an activity involves a group of us, whether or not it's at the Space, we put 
 
 If an activity at the Space will need exclusive use of a room or a major tool, we put it in the *Resources* calendar.
 
-### Stop Press: Christmas BBQ Thursday 18<sup>Th</sup> December at 6:00pm at the Space!
 
 ## Resources Calendar
 
